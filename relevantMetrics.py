@@ -7,15 +7,17 @@ YDS_list = df['YDS'].tolist()
 plist = df['NAME'].tolist()
 rush_list = df['RUSH YDS'].tolist()
 name2 = df2['Player'].tolist()
-TDpercentage = df2['TD%']
-Intpercentage = df2['Int%']
+TDpercentage = df2['TD%'].tolist()
+Intpercentage = df2['Int%'].tolist()
+Completions = df['COMP'].tolist()
+Attempts = df['ATT'].tolist()
 
 player_list = []
 for player in plist:
     if player not in player_list:
         player_list.append(player)
 
-Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage
+Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, 
 for player in player_list:
     Stats_dict[player] = []
 
@@ -113,5 +115,3 @@ for item in TDInt_dict:
 for player in player_list:
     Stats_dict[player].append(TDInt_dict[player])
 
-print(Stats_dict)
-#He

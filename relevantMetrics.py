@@ -1,8 +1,8 @@
 import pandas as pd
 import math
 
-df = pd.read_csv ('/Users/namhlahade/Desktop/Football_Project/quarterbackStats.csv')
-df2 = pd.read_csv ('/Users/namhlahade/Desktop/Football_Project/quarterbackStats2.csv')
+df = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/quarterbackStats.csv')
+df2 = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/quarterbackStats2.csv')
 YDS_list = df['YDS'].tolist()
 plist = df['NAME'].tolist()
 rush_list = df['RUSH YDS'].tolist()

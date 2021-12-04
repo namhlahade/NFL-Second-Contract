@@ -11,13 +11,14 @@ TDpercentage = df2['TD%'].tolist()
 Intpercentage = df2['Int%'].tolist()
 Completions = df['COMP'].tolist()
 Attempts = df['ATT'].tolist()
+YAtt = df2['AY/A'].tolist()
 
 player_list = []
 for player in plist:
     if player not in player_list:
         player_list.append(player)
 
-Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage
+Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage, Adjusted Yards per Attempt
 for player in player_list:
     Stats_dict[player] = []
 
@@ -156,4 +157,21 @@ for player in player_list:
 for player in player_list:
     Stats_dict[player].append((Comp_dict[player]/Att_dict[player])*100)
 
+AdjustedYards_dict = {}
+i = 0
+for name in  name3:
+    if name in Stats_dict.keys():
+        AdjustedYards_dict[name] = YAtt[i]
+    if "III" in name:
+        name2 = name.replace(" III", "")
+        if name2 in Stats_dict.keys():
+            AdjustedYards_dict[name2] = YAtt[i]
+    if "II" in name:
+        name2 = name.replace(" II", "")
+        if name2 in Stats_dict.keys():
+            AdjustedYards_dict[name2] = YAtt[i]
+    i = i+1
+
+for player in player_list:
+    Stats_dict[player].append((AdjustedYards_dict[player]))
 print(Stats_dict)

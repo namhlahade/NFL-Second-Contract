@@ -17,7 +17,7 @@ for player in plist:
     if player not in player_list:
         player_list.append(player)
 
-Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, 
+Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage
 for player in player_list:
     Stats_dict[player] = []
 
@@ -47,10 +47,10 @@ RushYDS_dict = {}
 for player in player_list:
     RushYDS_dict[player] = []
 
-j = 0
+i = 0
 for p in plist:
-    RushYDS_dict[p].append(rush_list[j])
-    j = j+1
+    RushYDS_dict[p].append(rush_list[i])
+    i = i+1
 
 for player in player_list:
     RushYDS_dict[player] = [x for x in RushYDS_dict[player] if math.isnan(x) == False]
@@ -115,3 +115,45 @@ for item in TDInt_dict:
 for player in player_list:
     Stats_dict[player].append(TDInt_dict[player])
 
+Comp_dict = {}
+for player in player_list:
+    Comp_dict[player] = []
+
+i = 0
+for p in plist:
+    Comp_dict[p].append(Completions[i])
+    i = i+1
+
+for player in player_list:
+    Comp_dict[player] = [x for x in Comp_dict[player] if math.isnan(x) == False]
+
+for player in player_list:
+    average = 0
+    for comp in Comp_dict[player]:
+        average = average + comp
+    average = average/len(Comp_dict[player])
+    Comp_dict[player] = average
+
+Att_dict = {}
+for player in player_list:
+    Att_dict[player] = []
+
+i = 0
+for p in plist:
+    Att_dict[p].append(Attempts[i])
+    i = i+1
+
+for player in player_list:
+    Att_dict[player] = [x for x in Att_dict[player] if math.isnan(x) == False]
+
+for player in player_list:
+    average = 0
+    for att in Att_dict[player]:
+        average = average + att
+    average = average/len(Att_dict[player])
+    Att_dict[player] = average
+
+for player in player_list:
+    Stats_dict[player].append((Comp_dict[player]/Att_dict[player])*100)
+
+print(Stats_dict)

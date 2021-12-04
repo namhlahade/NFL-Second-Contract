@@ -12,6 +12,7 @@ Intpercentage = df2['Int%'].tolist()
 Completions = df['COMP'].tolist()
 Attempts = df['ATT'].tolist()
 YAtt = df2['AY/A'].tolist()
+qbr = df2['QBR'].tolist()
 
 player_list = []
 for player in plist:
@@ -174,4 +175,23 @@ for name in  name3:
 
 for player in player_list:
     Stats_dict[player].append((AdjustedYards_dict[player]))
+
+qbr_dict = {}
+i = 0
+for name in  name3:
+    if name in Stats_dict.keys():
+        qbr_dict[name] = qbr[i]
+    if "III" in name:
+        name2 = name.replace(" III", "")
+        if name2 in Stats_dict.keys():
+            qbr_dict[name2] = qbr[i]
+    if "II" in name:
+        name2 = name.replace(" II", "")
+        if name2 in Stats_dict.keys():
+            qbr_dict[name2] = qbr[i]
+    i = i+1
+
+for player in player_list:
+    Stats_dict[player].append((qbr_dict[player]))
+
 print(Stats_dict)

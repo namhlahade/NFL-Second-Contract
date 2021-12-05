@@ -19,7 +19,7 @@ for player in plist:
     if player not in player_list:
         player_list.append(player)
 
-Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage, Adjusted Yards per Attempt
+Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage, Adjusted Yards per Attempt, Defense-adjusted Value over Average
 for player in player_list:
     Stats_dict[player] = []
 

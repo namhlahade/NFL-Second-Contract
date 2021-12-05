@@ -3,6 +3,7 @@ import math
 
 df = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/quarterbackStats.csv')
 df2 = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/quarterbackStats2.csv')
+df3 = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/qbstats3.csv')
 YDS_list = df['YDS'].tolist()
 plist = df['NAME'].tolist()
 rush_list = df['RUSH YDS'].tolist()
@@ -13,13 +14,15 @@ Completions = df['COMP'].tolist()
 Attempts = df['ATT'].tolist()
 YAtt = df2['AY/A'].tolist()
 qbr = df2['QBR'].tolist()
+epa = df3['EPA'].tolist()
+quarterbacks = df3['NAME'].tolist()
 
 player_list = []
 for player in plist:
     if player not in player_list:
         player_list.append(player)
 
-Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage, Adjusted Yards per Attempt, Defense-adjusted Value over Average
+Stats_dict = {} #Value = pass yards, rush yards, TD percentage / Int percentage, Completion Percentage, Adjusted Yards per Attempt, QBR, EPA
 for player in player_list:
     Stats_dict[player] = []
 
@@ -194,4 +197,10 @@ for name in  name3:
 for player in player_list:
     Stats_dict[player].append((qbr_dict[player]))
 
+i = 0
+for qb in quarterbacks:
+    if qb in Stats_dict.keys():
+        Stats_dict[qb].append(epa[i])
+    i = i+1
+        
 print(Stats_dict)

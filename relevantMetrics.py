@@ -1,9 +1,11 @@
 import pandas as pd
 import math
+import csv
 
 df = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/quarterbackStats.csv')
 df2 = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/quarterbackStats2.csv')
 df3 = pd.read_csv ('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/qbstats3.csv')
+QBinfo = ["Name", "Pass Yards", "Rush Yards", "TD/Int Ratio", "Completion Percentage", "Adjusted Yards per Attempt", "QBR", "EPA"]
 YDS_list = df['YDS'].tolist()
 plist = df['NAME'].tolist()
 rush_list = df['RUSH YDS'].tolist()
@@ -203,4 +205,14 @@ for qb in quarterbacks:
         Stats_dict[qb].append(epa[i])
     i = i+1
         
-print(Stats_dict)
+finalnames = Stats_dict.keys();
+csvfile = open('relevantMetrics.csv', 'w', newline='', encoding='utf-8')
+c = csv.writer(csvfile)
+c.writerow(QBinfo)
+csvrow = []
+for name in finalnames:
+    csvrow.append(name)
+    for item in Stats_dict[name]:
+        csvrow.append(item)
+    c.writerow(csvrow)
+    csvrow = []

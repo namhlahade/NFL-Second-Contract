@@ -114,7 +114,7 @@ Year,No.,Round,Pick,Player,Name,Team,College
 2012,9,6,15,185,Ryan Lindley,Cardinals,San Diego State
 2012,10,7,36,243,B.J. Coleman,Packers,Tennessee-Chattanooga
 2012,11,7,46,253,Chandler Harnish,Colts,Northern Illinois
-2011s,1,3,0,0,Terrelle Pryor,Raiders,Ohio State
+2011,1,3,0,0,Terrelle Pryor,Raiders,Ohio State
 2011,1,1,1,1,Cam Newton,Panthers,Auburn
 2011,2,1,8,8,Jake Locker,Titans,Washington
 2011,3,1,10,10,Blaine Gabbert,Jaguars,Missouri
@@ -342,7 +342,7 @@ Year,No.,Round,Pick,Player,Name,Team,College
 1993,6,8,20,216,Alex Van Pelt,Steelers,Pittsburgh
 1993,7,8,23,219,Elvis Grbac,49ers,Michigan
 1993,8,8,26,222,Trent Green,Chargers,Indiana
-1992s,1,1,0,0,Dave Brown,Giants,Duke
+1992,1,1,0,0,Dave Brown,Giants,Duke
 1992,1,1,6,6,David Klingler,Bengals,Houston
 1992,2,1,25,25,Tommy Maddox,Broncos,UCLA
 1992,3,2,12,40,Matt Blundin,Chiefs,Virginia
@@ -396,8 +396,8 @@ Year,No.,Round,Pick,Player,Name,Team,College
 1990,18,12,8,312,John Gromos,Seahawks,Vanderbilt
 1990,19,12,13,317,Major Harris,Raiders,West Virginia
 1990,20,12,17,321,Reggie Slack,Oilers,Auburn
-1989s,1,1,0,0,Steve Walsh,Cowboys,Miami (FL)
-1989s,2,1,0,0,Timm Rosenbach,Cardinals,Washington State
+1989,1,1,0,0,Steve Walsh,Cowboys,Miami (FL)
+1989,2,1,0,0,Timm Rosenbach,Cardinals,Washington State
 1989,1,1,1,1,Troy Aikman,Cowboys,UCLA
 1989,2,2,4,32,Mike Elkins,Chiefs,Wake Forest
 1989,3,2,23,51,Billy Joe Tolliver,Chargers,Texas Tech
@@ -462,7 +462,7 @@ Year,No.,Round,Pick,Player,Name,Team,College
 1986,14,12,7,312,Kent Austin,Cardinals,Mississippi
 1986,15,12,8,313,Brian McClure,Bills,Bowling Green
 1986,16,12,11,316,Steve Bradley,Bengals,Indiana
-1985s,1,1,0,0,Bernie Kosar,Browns,Miami (FL)
+1985,1,1,0,0,Bernie Kosar,Browns,Miami (FL)
 1985,1,2,9,37,Randall Cunningham,Eagles,UNLV
 1985,2,3,1,57,Frank Reich,Bills,Maryland
 1985,3,6,2,142,Steve Bono,Vikings,UCLA
@@ -474,16 +474,16 @@ Year,No.,Round,Pick,Player,Name,Team,College
 1985,9,10,25,277,John Conner,Seahawks,Arizona
 1985,10,11,5,285,Doug Flutie,Rams,Boston College
 1985,11,11,14,294,Joe Shield,Packers,Trinity
-1984u,1,1,1,1,Steve Young,Buccaneers,Brigham Young
-1984u,2,1,7,7,Wayne Peace,Bengals,Florida
-1984u,3,1,10,10,Ken Hobart,Jets,Idaho
-1984u,4,2,5,33,Steve Smith,Chargers,Michigan
-1984u,5,2,20,48,Rick Johnson,Rams,Southern Illinois
-1984u,6,3,8,64,Turner Gill,Jets,Nebraska
-1984u,7,3,14,70,Walter Lewis,Patriots,Alabama
-1984u,8,3,17,73,Tim Riordan,Cardinals,Temple
-1984u,9,3,20,76,Frank Seurer,Seahawks,Kansas
-1984u,10,3,21,77,John Bond,Browns,Mississippi State
+1984,1,1,1,1,Steve Young,Buccaneers,Brigham Young
+1984,2,1,7,7,Wayne Peace,Bengals,Florida
+1984,3,1,10,10,Ken Hobart,Jets,Idaho
+1984,4,2,5,33,Steve Smith,Chargers,Michigan
+1984,5,2,20,48,Rick Johnson,Rams,Southern Illinois
+1984,6,3,8,64,Turner Gill,Jets,Nebraska
+1984,7,3,14,70,Walter Lewis,Patriots,Alabama
+1984,8,3,17,73,Tim Riordan,Cardinals,Temple
+1984,9,3,20,76,Frank Seurer,Seahawks,Kansas
+1984,10,3,21,77,John Bond,Browns,Mississippi State
 1984,1,2,10,38,Boomer Esiason,Bengals,Maryland
 1984,2,3,3,59,Jeff Hostetler,Giants,West Virginia
 1984,3,3,24,80,Rick McIvor,Cardinals,Texas
@@ -530,7 +530,7 @@ Year,No.,Round,Pick,Player,Name,Team,College
 1982,13,11,12,291,Bob Holly,Redskins,Princeton
 1982,14,11,17,296,Steve Sandon,Patriots,Northern Iowa
 1982,15,12,27,333,Dan Feraday,Bengals,Toronto
-1981s,1,1,0,0,Dave Wilson,Saints,Illinois
+1981,1,1,0,0,Dave Wilson,Saints,Illinois
 1981,1,1,6,6,Rich Campbell,Packers,California
 1981,2,2,5,33,Neil Lomax,Cardinals,Portland State
 1981,3,4,7,90,Tom Flick,Redskins,Washington
@@ -754,292 +754,3 @@ Year,No.,Round,Pick,Player,Name,Team,College
 1970,11,8,19,201,Mike Holmgren,Cardinals,USC
 1970,12,12,22,308,Larry Arnold,Rams,Hawaii
 1970,13,16,11,401,Bob Stewart,Broncos,Northern Arizona
-1969,1,1,5,5,Greg Cook,Bengals,Cincinnati
-1969,2,1,9,9,Marty Domres,Chargers,Columbia
-1969,3,2,4,30,Terry Hanratty,Steelers,Notre Dame
-1969,4,2,15,41,Bobby Douglass,Bears,Kansas
-1969,5,2,26,52,Al Woodall,Jets,Duke
-1969,6,5,6,110,Onree Jackson,Patriots,Alabama A&M
-1969,7,8,10,192,James Harris,Bills,Grambling State
-1969,8,8,25,207,Sam Havrilak,Colts,Bucknell
-1969,9,9,24,232,Larry Good,Colts,Georgia Tech
-1969,10,10,2,236,Sonny Wade,Eagles,Emory & Henry
-1969,11,10,22,256,Bob Naponic,Oilers,Illinois
-1969,12,11,10,270,Alan Pastrana,Broncos,Maryland
-1969,13,11,17,277,Brian Dowling,Vikings,Yale
-1969,14,12,21,307,Tim Carr,Rams,C.W. Post
-1969,15,12,22,308,Bob Belden,Cowboys,Notre Dame
-1969,16,13,15,332,Tom Boutwell,Browns,Southern Mississippi
-1969,17,14,19,357,Ed Roseborough,Cardinals,Arizona State
-1969,18,16,7,397,Ed Hargett,Saints,Texas A&M
-1969,19,17,9,425,Buster O'Brien,Broncos,Richmond
-1968,1,1,11,11,Greg Landry,Lions,Massachusetts
-1968,2,1,25,25,Eldridge Dickey,Raiders,Tennessee State
-1968,3,2,3,30,Gary Beban,Rams,UCLA
-1968,4,2,21,48,Mike Livingston,Chiefs,Southern Methodist
-1968,5,2,25,52,Ken Stabler,Raiders,Alabama
-1968,6,3,1,56,Gary Davis,Bengals,Vanderbilt
-1968,7,3,12,67,Billy Stevens,Packers,Texas-El Paso
-1968,8,5,4,115,Ronnie South,Saints,Arkansas
-1968,9,6,4,142,Kim Hammond,Dolphins,Florida State
-1968,10,6,17,155,Dewey Warren,Bengals,Tennessee State
-1968,11,7,5,170,John Schneider,Patriots,Toledo
-1968,12,8,9,201,Danny Holman,Steelers,San Jose State
-1968,13,9,10,229,Greg Barton,Lions,Tulsa
-1968,14,11,9,282,Kim King,Steelers,Georgia Tech
-1968,15,11,20,293,Jim Alcorn,Browns,Clarion
-1968,16,12,15,315,Henry Johnson,49ers,Fisk
-1968,17,13,9,336,Dan Darragh,Bills,William & Mary
-1968,18,14,3,357,Marlin Briscoe,Broncos,Nebraska-Omaha
-1968,19,15,6,387,Jim Haynie,Vikings,West Chester (PA)
-1968,20,15,23,404,Jeff Beaver,Colts,North Carolina
-1968,21,16,23,431,Jimmy Raye,Rams,Michigan State
-1968,22,17,6,441,Bob Lee,Vikings,Pacific
-1967,1,1,3,3,Steve Spurrier,49ers,Florida
-1967,2,1,4,4,Bob Griese,Dolphins,Purdue
-1967,3,1,25,25,Don Horn,Packers,San Diego State
-1967,4,2,4,30,Bob David,Oilers,Virginia
-1967,5,3,16,69,Vidal Carlin,Cardinals,North Texas State
-1967,6,6,4,137,Terry Southall,Colts,Baylor
-1967,7,6,8,141,Tim Jones,Lions,Weber State
-1967,8,6,9,142,Virgil Carter,Bears,Brigham Young
-1967,9,6,22,155,Rick Egloff,Raiders,Wyoming
-1967,10,7,3,162,Corey Colehour,Falcons,North Dakota
-1967,11,7,9,168,Bruce Matte,Redskins,Miami (OH)
-1967,12,8,7,192,John Foruria,Steelers,Idaho
-1967,13,8,23,208,Steve Laub,Cowboys,Illinois Wesleyan
-1967,14,10,6,243,Paul Krause,Broncos,Dubuque
-1967,15,11,24,287,Dave Bennett,Packers,Springfield (MA)
-1967,16,12,19,309,Ben Monroe,Eagles,New Mexico
-1967,17,16,6,399,Jack Lentz,Broncos,Holy Cross
-1967,18,16,23,416,Paul Brothers,Cowboys,Oregon State
-1967,19,17,5,424,Bill Buckner,Falcons,Delta State
-1967,20,17,11,430,Bob Biletnikoff,Jets,Miami (FL)
-1967,21,17,13,432,Dan Talbott,49ers,North Carolina
-1966,1,1,16,16,Randy Johnson,Falcons,Texas A&I
-1966,2,2,13,29,Rick Norton,Browns,Kentucky
-1966,3,4,10,58,Gary Snook,Cardinals,Iowa
-1966,4,6,8,88,Tim Van Galder,Cardinals,Iowa State
-1966,5,7,12,107,Ron Meyer,Bears,South Dakota State
-1966,6,8,15,125,Jack White,Colts,Penn State
-1966,7,11,1,156,Steve Sloan,Falcons,Alabama
-1966,8,13,3,188,Benjy Dial,Steelers,Eastern New Mexico
-1966,9,14,15,215,Jim Ward,Colts,Gettysburg
-1966,10,16,11,241,Jim LeClair,49ers,C.W. Post
-1966,11,17,3,248,Mike Brundage,Steelers,Oregon
-1966,12,17,7,252,Benny Russell,Cardinals,Louisville
-1966,13,18,3,263,Ken Lucas,Steelers,Pittsburgh
-1966,14,19,3,278,Dave Neilson,Steelers,Albion
-1965,1,1,1,1,Joe Namath,Jets,Alabama
-1965,2,1,5,5,Craig Morton,Cowboys,California
-1965,3,1,12,12,Joe Namath,Cardinals,Alabama
-1965,4,2,0,0,John Huarte,Jets,Notre Dame
-1965,5,3,5,33,Bob Timberlake,Giants,Michigan
-1965,6,4,4,46,Tommy Myers,Lions,Northwestern
-1965,7,6,6,76,John Huarte,Eagles,Notre Dame
-1965,8,7,5,89,Brig Owens,Cowboys,Cincinnati
-1965,9,8,2,100,Jhn Hankinson,Vikings,Minnesota
-1965,10,9,13,125,Gary Lane,Browns,Missouri
-1965,11,10,13,139,Pat Screen,Browns,Louisiana State
-1965,12,12,5,159,Ernie Kellerman,Cowboys,Miami (OH)
-1965,13,14,13,195,Dan Simrell,Browns,Toledo
-1965,14,16,14,224,Steve Tensi,Colts,Florida State
-1965,15,17,4,228,Tom LaFramboise,Bears,Louisville
-1965,16,18,11,249,Karl Sweetan,Lions,Wake Forest
-1965,17,19,9,261,Billy Guy Anderson,Rams,Tulsa
-1965,18,20,1,267,John Torok,Giants,Arizona State
-1965,19,20,4,270,Craig Fertig,Steelers,USC
-1965,20,20,11,277,George Wilson,Lions,Xavier
-1965,21,20,14,280,George Haffner,Colts,McNeese State
-1964,1,1,5,5,Pete Beathard,Lions,USC
-1964,2,1,7,7,Bill Munson,Rams,Utah State
-1964,3,2,1,15,George Mira,49ers,Miami (FL)
-1964,4,2,2,16,Jack Concannon,Eagles,Boston College
-1964,5,4,3,45,Perry Lee Dunn,Cowboys,Mississippi
-1964,6,6,3,73,Billy Lothridge,Cowboys,Georgia Tech
-1964,7,6,11,81,Henry Schichtle,Giants,Wichita State
-1964,8,7,3,87,Dick Shiner,Redskins,Maryland
-1964,9,8,11,109,Gary Wood,Giants,Cornell
-1964,10,8,14,112,Larry Rakestraw,Bears,Georgia
-1964,11,10,3,129,Roger Staubach,Cowboys,Navy
-1964,12,10,5,131,Ron Smith,Rams,Richmond
-1964,13,11,2,142,Bob Berry,Eagles,Oregon
-1964,14,13,4,172,Jerry Rhome,Cowboys,Tulsa
-1964,15,16,10,220,Jack Ankerson,Cardinals,Ripon
-1963,1,1,1,1,Terry Baker,Rams,Oregon State
-1963,2,6,11,81,Dave Mathieson,Bears,Washington State
-1963,3,9,5,117,Don Trull,Colts,Baylor
-1963,4,10,4,130,Pete Liske,Eagles,Penn State
-1963,5,10,10,136,Bill Nelsen,Steelers,USC
-1963,6,10,12,138,Mike Taliaferro,Giants,Illinois
-1963,7,12,14,168,Daryle Lamonica,Packers,Notre Dame
-1963,8,19,7,259,Jim Turner,Redskins,Utah State
-1962,1,1,1,1,Roman Gabriel,Raiders,North Carolina State
-1962,2,1,2,2,Roman Gabriel,Rams,North Carolina State
-1962,3,1,10,10,John Hadl,Lions,Kansas
-1962,4,2,4,18,Sonny Gibbs,Cowboys,Texas Christian
-1962,5,2,10,24,Eddie Wilson,Lions,Arizona
-1962,6,3,14,42,John Furman,Browns,Texas-El Paso
-1962,7,4,12,54,Glynn Griffing,Giants,Mississippi
-1962,8,7,4,88,Jim Bakken,Rams,Wisconsin
-1962,9,9,6,118,Wilburn Hollis,Cardinals,Iowa
-1962,10,9,9,121,Walt Rappold,Colts,Duke
-1962,11,10,14,140,Gale Weidner,Packers,Colorado
-1962,12,18,2,240,Charlie Furlow,Rams,Mississippi State
-1962,13,18,9,247,Mel Rideout,Colts,Richmond
-1962,14,18,10,248,Joe Zuger,Lions,Arizona State
-1962,15,18,14,252,Bob Joiner,Packers,Presbyterian
-1962,16,19,11,263,John Anabo,Browns,Fresno State
-1962,17,20,1,267,Ed Trancygier,Redskins,Florida State
-1961,1,1,2,2,Norm Snead,Redskins,Wake Forest
-1961,2,3,1,29,Fran Tarkenton,Vikings,Georgia
-1961,3,3,8,36,Jim Wright,Eagles,Memphis State
-1961,4,3,13,41,Ron Miller,Rams,Wisconsin
-1961,5,6,13,83,Dick Thornton,Cardinals,Northwestern
-1961,6,9,13,125,Jake Gibbs,Browns,Mississippi
-1961,7,12,2,156,Lowndes Shingler,Cowboys,Clemson
-1961,8,12,6,160,Howard Dyer,Bears,Virginia Military Inst
-1961,9,12,11,165,Jack Moynihan,Giants,Holy Cross
-1961,10,13,14,182,Don Jonas,Eagles,Penn State
-1961,11,17,6,230,Terry Nofsinger,Steelers,Utah
-1961,12,19,5,257,Ben Charles,Bears,USC
-1961,13,20,1,267,Mike McFarland,Vikings,Western Illinois
-1961,14,20,5,271,Mike Jones,Steelers,San Jose State
-1960,1,1,2,2,George Izo,Cardinals,Notre Dame
-1960,2,1,4,4,Richie Lucas,Redskins,Penn State
-1960,3,2,3,15,Warren Rabb,Lions,Louisiana State
-1960,4,3,1,25,Charley Britt,Rams,Georgia
-1960,5,3,8,32,Don Meredith,Bears,Southern Methodist
-1960,6,4,9,45,Jack Cummings,Eagles,North Carolina
-1960,7,5,9,57,Dick Norman,Bears,Stanford
-1960,8,6,1,61,Jacky Lee,Cardinals,Cincinnati
-1960,9,7,11,83,Bobby Waters,49ers,Presbyterian
-1960,10,10,1,109,Charley Johnson,Cardinals,New Mexico State
-1960,11,12,7,139,Dave Grosz,Eagles,Oregon
-1960,12,12,12,144,Pete Hall,Giants,Marquette
-1960,13,16,8,188,Jim Waldon,Browns,Wyoming
-1960,14,20,3,231,Dean Look,Lions,Michigan State
-1959,1,1,1,1,Randy Duncan,Packers,Iowa
-1959,2,1,4,4,Don Allard,Redskins,Boston College
-1959,3,1,5,5,Dave Baker,49ers,Oklahoma
-1959,4,1,10,10,Lee Grosscup,Giants,Utah
-1959,5,2,4,16,Buddy Humphrey,Rams,Baylor
-1959,6,2,9,21,Richie Petitbon,Bears,Tulane
-1959,7,4,3,39,Jim Grazione,Eagles,Villanova
-1959,8,7,7,79,Mitch Ogiego,Redskins,Iowa
-1959,9,8,3,87,Bob Ptacek,Browns,Michigan
-1959,10,12,12,144,Dick Wood,Colts,Auburn
-1959,11,18,5,209,Joe Kapp,Redskins,California
-1959,12,21,7,247,Johnny Green,Steelers,Tennessee-Chattanooga
-1959,13,23,11,275,Frank Kremblas,Giants,Ohio State
-1959,14,25,3,291,Dick Jamieson,Eagles,Bradley
-1958,1,1,1,1,King Hill,Cardinals,Rice
-1958,2,4,3,40,Dan Nolan,Redskins,Lehigh
-1958,3,4,12,49,Jim Ninowski,Browns,Michigan State
-1958,4,5,5,54,Jim Van Pelt,Redskins,Michigan
-1958,5,5,6,55,Frank Ryan,Rams,Rice
-1958,6,10,6,115,Al Jacks,Rams,Penn State
-1958,7,12,11,144,Bob Brodhead,Browns,Duke
-1958,8,13,3,148,Mickey Trimarki,Eagles,West Virginia
-1958,9,13,5,150,Ken (Model-T) Ford,Redskins,Hardin-Simmons
-1958,10,20,8,237,Tom Forestal,Colts,Navy
-1957,1,1,3,3,John Brodie,49ers,Stanford
-1957,2,1,5,5,Len Dawson,Steelers,Purdue
-1957,3,2,4,17,Milt Plum,Browns,Penn State
-1957,4,3,12,37,Ronnie Knox,Bears,UCLA
-1957,5,4,1,38,Bobby Cox,Rams,Minnesota
-1957,6,4,6,43,Sonny Jurgensen,Eagles,Duke
-1957,7,5,1,50,Jimmy Harris,Eagles,Oklahoma
-1957,8,7,12,85,Chuck Curtis,Giants,Texas Christian
-1957,9,11,5,126,Andy Nelson,Colts,Memphis State
-1957,10,12,8,141,Wade Mitchell,Redskins,Georgia Tech
-1957,11,17,6,199,Corny Salvaterra,Steelers,Pittsburgh
-1957,12,17,10,203,Jack Kemp,Lions,Occidental
-1957,13,19,5,222,Kenny Ploen,Browns,Iowa
-1957,14,21,5,246,Gene Cichowski,Steelers,Indiana
-1957,15,22,2,255,Ronnie Quillian,Packers,Tulane
-1957,16,22,5,258,Bob Winters,Browns,Utah State
-1956,1,1,1,1,Gary Glick,Steelers,Colorado State
-1956,2,1,2,2,Earl Morrall,49ers,Michigan State
-1956,3,3,6,31,John Roach,Cardinals,Southern Methodist
-1956,4,4,1,38,Jerry Reichow,Lions,Iowa
-1956,5,12,11,144,Em Lindbeck,Rams,Illinois
-1956,6,15,6,175,John Polzer,Colts,Virginia
-1956,7,15,10,179,Tom Spiers,Cardinals,Arkansas State
-1956,8,16,3,184,George Herring,49ers,Southern Mississippi
-1956,9,16,5,186,George Welsh,Cardinals,Navy
-1956,10,17,7,200,Bart Starr,Packers,Alabama
-1956,11,17,10,203,Eagle Day,Redskins,Mississippi
-1956,12,17,12,205,Eddie West,Browns,North Carolina State
-1956,13,18,2,207,John Stephens,Steelers,Holy Cross
-1956,14,23,3,268,Pete Neft,Steelers,Pittsburgh
-1956,15,24,6,283,Bobby Fox,Colts,East Texas State
-1956,16,27,2,315,Jerry Gustafson,49ers,Stanford
-1956,17,28,5,330,Jim Miller,Cardinals,Wisconsin
-1956,18,28,6,331,John Shearer,Colts,Shepherd
-1956,19,28,7,332,Bobby Lance,Packers,Florida
-1956,20,30,6,355,Rod Hermes,Packers,Beloit
-1955,1,1,1,1,George Shaw,Colts,Oregon
-1955,2,1,4,4,Ralph Guglielmi,Redskins,Notre Dame
-1955,3,9,5,102,Johnny Unitas,Steelers,Louisville
-1955,4,13,12,157,Johnny Borton,Browns,Ohio State
-1955,5,16,4,185,Charley Brackins,Packers,Prairie View A&M
-1955,6,22,8,261,Pete Vann,49ers,Army
-1954,1,1,1,1,Bobby Garrett,Browns,Stanford
-1954,2,1,2,2,Lamar McHan,Cardinals,Arkansas
-1954,3,1,5,5,Cotton Davidson,Colts,Baylor
-1954,4,27,6,319,Tom Yewcic,Steelers,Michigan State
-1953,1,1,5,5,Ted Marchibroda,Steelers,Detroit
-1953,2,2,4,17,Zeke Bratkowski,Bears,Georgia
-1953,3,2,9,22,Eddie Crowder,Giants,Oklahoma
-1953,4,2,11,24,Rudy Bukich,Rams,USC
-1953,5,3,3,28,Dale Samuels,Cardinals,Purdue
-1953,6,10,7,116,Charlie Maloy,Giants,Holy Cross
-1953,7,30,4,353,Bill Brehany,Bears,Virginia Military Inst
-1952,1,1,1,1,Billy Wade,Rams,Vanderbilt
-1952,2,1,4,4,Vito (Babe) Parilli,Packers,Kentucky
-1952,3,1,12,12,Harry Agganis,Browns,Boston University
-1952,4,3,1,26,Don Klosterman,Browns,Loyola (CA)
-1952,5,3,6,31,Al Dorow,Redskins,Michigan State
-1952,6,3,10,35,Don Heinrich,Giants,Washington
-1952,7,19,5,222,Gary Kerkorian,Steelers,Stanford
-1951,1,1,2,2,Bob Williams,Bears,Notre Dame
-1951,2,1,3,3,Y.A. Tittle,49ers,Louisiana State
-1951,3,14,1,160,Adrian Burk,Redskins,Baylor
-1951,4,30,6,357,John (Model-T) Ford,Eagles,Hardin-Simmons
-1950,1,1,2,2,Adrian Burk,Colts,Baylor
-1950,2,2,3,17,Tobin Rote,Packers,Rice
-1950,3,10,5,123,Eddie LeBaron,Redskins,Pacific
-1950,4,18,3,225,Arnold Galiffa,Packers,Army
-1950,5,19,12,247,Butch Songin,Browns,Boston College
-1949,1,1,2,2,Johnny Rauch,Lions,Georgia
-1949,2,1,5,5,Stan Heath,Packers,Nevada
-1949,3,1,9,9,Frank Tripucka,Eagles,Notre Dame
-1949,4,4,6,37,Norm Van Brocklin,Rams,Oregon
-1949,5,12,5,116,Jim Finks,Steelers,Tulsa
-1949,6,12,8,119,George Blanda,Bears,Kentucky
-1948,1,1,1,1,Harry Gilmer,Redskins,Alabama
-1948,2,1,3,3,Bobby Layne,Bears,Texas
-1948,3,1,6,6,Y.A. Tittle,Lions,Louisiana State
-1948,4,3,9,22,Paul Campbell,Eagles,Texas
-1948,5,11,8,93,Gil Johnson,Eagles,Southern Methodist
-1948,6,16,4,139,George Ratterman,Yanks,Notre Dame
-1948,7,25,6,231,Stan Heath,Packers,Nevada
-1946,1,1,1,1,Frank (Boley) Dancewicz,Yanks,Notre Dame
-1946,2,1,4,4,Johnny Lujack,Bears,Notre Dame
-1946,3,3,4,19,Frank Broyles,Bears,Georgia Tech
-1945,1,1,8,8,Jim Hardy,Redskins,USC
-1945,2,5,2,34,Al Kowalski,Dodgers,Tulsa
-1945,3,13,7,127,Charlie Conerly,Redskins,Mississippi
-1944,1,1,1,1,Angelo Bertelli,Yanks,Notre Dame
-1944,2,1,4,4,Otto Graham,Lions,Northwestern
-1944,3,5,10,42,Bob Waterfield,Rams,UCLA
-1943,1,6,5,45,Les Horvath,Rams,Ohio State
-1942,1,1,10,10,Frankie Albert,Bears,Stanford
-1941,1,2,3,13,Paul Christman,Cardinals,Missouri
-1941,2,20,8,188,Jack Odle,Bears,Texas Christian
-1939,1,1,2,2,Sid Luckman,Bears,Columbia
-1939,2,1,4,4,Davey O'Brien,Eagles,Texas Christian
-1939,3,10,2,82,Earl Crowder,Cardinals,Oklahoma
-1937,1,1,6,6,Sammy Baugh,Redskins,Texas Christian
-1937,2,2,3,13,Clarence (Ace) Parker,Dodgers,Duke

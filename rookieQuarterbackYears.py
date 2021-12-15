@@ -23,6 +23,11 @@ with open('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/rookieQBs.csv'
             if 'Quarterbacks' not in cols:
                 if cols[0] == '':
                     cols[0] = year
-                else:
+                if 's' in cols[0]:
+                    cols[0] = cols[0].replace('s', '')
+                if 'u' in cols[0]:
+                    cols[0] = cols[0].replace('u', '')
+                if cols[0] != '':
                     year = cols[0]
-                writer.writerow(cols)
+                if int(cols[0]) >= 1970:
+                    writer.writerow(cols)

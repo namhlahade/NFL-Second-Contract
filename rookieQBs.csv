@@ -1,0 +1,1045 @@
+Year,No.,Round,Pick,Player,Name,Team,College
+2021,1,1,1,1,Trevor Lawrence,Jaguars,Clemson
+2021,2,1,2,2,Zach Wilson,Jets,Brigham Young
+2021,3,1,3,3,Trey Lance,49ers,North Dakota State
+2021,4,1,11,11,Justin Fields,Bears,Ohio State
+2021,5,1,15,15,Mac Jones,Patriots,Alabama
+2021,6,2,32,64,Kyle Trask,Buccaneers,Florida
+2021,7,3,2,66,Kellen Mond,Vikings,Texas A&M
+2021,8,3,3,67,Davis Mills,Texans,Stanford
+2021,9,4,28,133,Ian Book,Saints,Notre Dame
+2021,10,6,34,218,Sam Ehlinger,Colts,Texas
+2020,1,1,1,1,Joe Burrow,Bengals,Louisiana State
+2020,2,1,5,5,Tua Tagovailoa,Dolphins,Alabama
+2020,3,1,6,6,Justin Herbert,Chargers,Oregon
+2020,4,1,26,26,Jordan Love,Packers,Utah State
+2020,5,2,21,53,Jalen Hurts,Eagles,Oklahoma
+2020,6,4,16,122,Jacob Eason,Colts,Washington
+2020,7,4,19,125,James Morgan,Jets,Florida International
+2020,8,5,21,167,Jake Fromm,Bills,Georgia
+2020,9,6,10,189,Jake Luton,Jaguars,Oregon State
+2020,10,7,10,224,Cole McDonald,Titans,Hawaii
+2020,11,7,17,231,Ben DiNucci,Cowboys,James Madison
+2020,12,7,26,240,Tommy Stevens,Saints,Mississippi State
+2020,13,7,30,244,Nate Stanley,Vikings,Iowa
+2019,1,1,1,1,Kyler Murray,Cardinals,Oklahoma
+2019,2,1,6,6,Daniel Jones,Giants,Duke
+2019,3,1,15,15,Dwayne Haskins,Redskins,Ohio State
+2019,4,2,10,42,Drew Lock,Broncos,Missouri
+2019,5,3,36,100,Will Grier,Panthers,West Virginia
+2019,6,4,2,104,Ryan Finley,Bengals,North Carolina State
+2019,7,4,31,133,Jarrett Stidham,Patriots,Auburn
+2019,8,5,28,166,Easton Stick,Chargers,North Dakota State
+2019,9,5,29,167,Clayton Thorson,Eagles,Northwestern
+2019,10,6,5,178,Gardner Minshew,Jaguars,Washington State
+2019,11,6,24,197,Trace McSorley,Ravens,Penn State
+2018,1,1,1,1,Baker Mayfield,Browns,Oklahoma
+2018,2,1,3,3,Sam Darnold,Jets,USC
+2018,3,1,7,7,Josh Allen,Bills,Wyoming
+2018,4,1,10,10,Josh Rosen,Cardinals,UCLA
+2018,5,1,32,32,Lamar Jackson,Ravens,Louisville
+2018,6,3,12,76,Mason Rudolph,Steelers,Oklahoma State
+2018,7,4,8,108,Kyle Lauletta,Giants,Richmond
+2018,8,5,34,171,Mike White,Cowboys,Western Kentucky
+2018,9,6,25,199,Luke Falk,Titans,Washington State
+2018,10,6,29,203,Tanner Lee,Jaguars,Nebraska
+2018,11,7,1,219,Danny Etling,Patriots,Louisiana State
+2018,12,7,2,220,Alex McGough,Seahawks,Florida International
+2018,13,7,31,249,Logan Woodside,Bengals,Toledo
+2017,1,1,2,2,Mitchell Trubisky,Bears,North Carolina
+2017,2,1,10,10,Patrick Mahomes,Chiefs,Texas Tech
+2017,3,1,12,12,Deshaun Watson,Texans,Clemson
+2017,4,2,20,52,DeShone Kizer,Browns,Notre Dame
+2017,5,3,23,87,Davis Webb,Giants,California
+2017,6,3,40,104,C.J. Beathard,49ers,Iowa
+2017,7,4,29,135,Joshua Dobbs,Steelers,Tennessee
+2017,8,5,28,171,Nathan Peterman,Bills,Pittsburgh
+2017,9,6,32,215,Brad Kaaya,Lions,Miami (FL)
+2017,10,7,35,253,Chad Kelly,Broncos,Mississippi
+2016,1,1,1,1,Jared Goff,Rams,California
+2016,2,1,2,2,Carson Wentz,Eagles,North Dakota State
+2016,3,1,26,26,Paxton Lynch,Broncos,Memphis
+2016,4,2,20,51,Christian Hackenberg,Jets,Penn State
+2016,5,3,29,91,Jacoby Brissett,Patriots,North Carolina State
+2016,6,3,31,93,Cody Kessler,Browns,USC
+2016,7,4,2,100,Connor Cook,Raiders,Michigan State
+2016,8,4,37,135,Dak Prescott,Cowboys,Mississippi State
+2016,9,4,41,139,Cardale Jones,Bills,Ohio State
+2016,10,5,25,162,Kevin Hogan,Chiefs,Stanford
+2016,11,6,12,187,Nate Sudfeld,Redskins,Indiana
+2016,12,6,16,191,Jake Rudock,Lions,Michigan
+2016,13,6,26,201,Brandon Allen,Jaguars,Arkansas
+2016,14,6,32,207,Jeff Driskel,49ers,Louisiana Tech
+2016,15,7,2,223,Brandon Doughty,Dolphins,Western Kentucky
+2015,1,1,1,1,Jameis Winston,Buccaneers,Florida State
+2015,2,1,2,2,Marcus Mariota,Titans,Oregon
+2015,3,3,11,75,Garrett Grayson,Saints,Colorado State
+2015,4,3,25,89,Sean Mannion,Rams,Oregon State
+2015,5,4,4,103,Bryce Petty,Jets,Baylor
+2015,6,5,11,147,Brett Hundley,Packers,UCLA
+2015,7,7,33,250,Trevor Siemian,Broncos,Northwestern
+2014,1,1,3,3,Blake Bortles,Jaguars,Central Florida
+2014,2,1,22,22,Johnny Manziel,Browns,Texas A&M
+2014,3,1,32,32,Teddy Bridgewater,Vikings,Louisville
+2014,4,2,4,36,Derek Carr,Raiders,Fresno State
+2014,5,2,30,62,Jimmy Garoppolo,Patriots,Eastern Illinois
+2014,6,4,20,120,Logan Thomas,Cardinals,Virginia Tech
+2014,7,4,35,135,Tom Savage,Texans,Pittsburgh
+2014,8,5,23,163,Aaron  Murray,Chiefs,Georgia
+2014,9,5,24,164,A.J. McCarron,Bengals,Alabama
+2014,10,6,2,178,Zach Mettenberger,Titans,Louisiana State
+2014,11,6,7,183,David Fales,Bears,San Jose State
+2014,12,6,18,194,Keith Wenning,Ravens,Ball State
+2014,13,6,37,213,Tajh Boyd,Jets,Clemson
+2014,14,6,38,214,Garrett Gilbert,Rams,Southern Methodist
+2013,1,1,16,16,EJ Manuel,Bills,Florida State
+2013,2,2,7,39,Geno Smith,Jets,West Virginia
+2013,3,3,11,73,Mike Glennon,Buccaneers,North Carolina State
+2013,4,4,1,98,Matt Barkley,Eagles,USC
+2013,5,4,13,110,Ryan Nassib,Giants,Syracuse
+2013,6,4,15,112,Tyler Wilson,Raiders,Arkansas
+2013,7,4,18,115,Landry Jones,Steelers,Oklahoma
+2013,8,7,15,221,Brad Sorensen,Chargers,Southern Utah
+2013,9,7,28,234,Zac Dysert,Broncos,Miami (OH)
+2013,10,7,31,237,B.J. Daniels,49ers,South Florida
+2013,11,7,43,249,Sean Renfree,Falcons,Duke
+2012,1,1,1,1,Andrew Luck,Colts,Stanford
+2012,2,1,2,2,Robert Griffin,Redskins,Baylor
+2012,3,1,8,8,Ryan Tannehill,Dolphins,Texas A&M
+2012,4,1,22,22,Brandon Weeden,Browns,Oklahoma State
+2012,5,2,25,57,Brock Osweiler,Broncos,Arizona State
+2012,6,3,12,75,Russell Wilson,Seahawks,Wisconsin
+2012,7,3,25,88,Nick Foles,Eagles,Arizona
+2012,8,4,7,102,Kirk Cousins,Redskins,Michigan State
+2012,9,6,15,185,Ryan Lindley,Cardinals,San Diego State
+2012,10,7,36,243,B.J. Coleman,Packers,Tennessee-Chattanooga
+2012,11,7,46,253,Chandler Harnish,Colts,Northern Illinois
+2011s,1,3,0,0,Terrelle Pryor,Raiders,Ohio State
+2011,1,1,1,1,Cam Newton,Panthers,Auburn
+2011,2,1,8,8,Jake Locker,Titans,Washington
+2011,3,1,10,10,Blaine Gabbert,Jaguars,Missouri
+2011,4,1,12,12,Christian Ponder,Vikings,Florida State
+2011,5,2,3,35,Andy Dalton,Bengals,Texas Christian
+2011,6,2,4,36,Colin Kaepernick,49ers,Nevada
+2011,7,3,10,74,Ryan Mallett,Patriots,Arkansas
+2011,8,5,4,135,Ricky Stanzi,Chiefs,Iowa
+2011,9,5,21,152,T.J. Yates,Texans,North Carolina
+2011,10,5,29,160,Nathan Enderle,Bears,Idaho
+2011,11,6,15,180,Tyrod Taylor,Ravens,Virginia Tech
+2011,12,7,5,208,Greg McElroy,Jets,Alabama
+2010,1,1,1,1,Sam Bradford,Rams,Oklahoma
+2010,2,1,25,25,Tim Tebow,Broncos,Florida
+2010,3,2,16,48,Jimmy Clausen,Panthers,Notre Dame
+2010,4,3,21,85,Colt McCoy,Browns,Texas
+2010,5,4,24,122,Mike Kafka,Eagles,Northwestern
+2010,6,5,24,155,John Skelton,Cardinals,Fordham
+2010,7,5,37,168,Jonathan Crompton,Chargers,Tennessee
+2010,8,6,7,176,Rusty Smith,Titans,Florida Atlantic
+2010,9,6,12,181,Dan LeFevour,Bears,Central Michigan
+2010,10,6,30,199,Joe Webb,Vikings,Alabama-Birmingham
+2010,11,6,35,204,Tony Pike,Panthers,Cincinnati
+2010,12,7,2,209,Levi Brown,Bills,Troy
+2010,13,7,32,239,Sean Canfield,Saints,Oregon State
+2010,14,7,43,250,Zac Robinson,Patriots,Oklahoma State
+2009,1,1,1,1,Matthew Stafford,Lions,Georgia
+2009,2,1,5,5,Mark Sanchez,Jets,USC
+2009,3,1,17,17,Josh Freeman,Buccaneers,Kansas State
+2009,4,2,12,44,Pat White,Dolphins,West Virginia
+2009,5,4,1,101,Stephen McGee,Cowboys,Texas A&M
+2009,6,5,15,151,Rhett Bomar,Giants,Sam Houston State
+2009,7,5,35,171,Nate Davis,49ers,Ball State
+2009,8,6,1,174,Tom Brandstater,Broncos,Fresno State
+2009,9,6,5,178,Mike Teel,Seahawks,Rutgers
+2009,10,6,23,196,Keith Null,Rams,West Texas A&M
+2009,11,6,28,201,Curtis Painter,Colts,Purdue
+2008,1,1,3,3,Matt Ryan,Falcons,Boston College
+2008,2,1,18,18,Joe Flacco,Ravens,Delaware
+2008,3,2,25,56,Brian Brohm,Packers,Louisville
+2008,4,2,26,57,Chad Henne,Dolphins,Michigan
+2008,5,3,31,94,Kevin O'Connell,Patriots,San Diego State
+2008,6,5,2,137,John David Booty,Vikings,USC
+2008,7,5,21,156,Dennis Dixon,Steelers,Oregon
+2008,8,5,25,160,Josh Johnson,Buccaneers,San Diego
+2008,9,5,27,162,Erik Ainge,Jets,Tennessee
+2008,10,6,20,186,Colt Brennan,Redskins,Hawaii
+2008,11,6,32,198,Andre' Woodson,Giants,Kentucky
+2008,12,7,2,209,Matt Flynn,Packers,Louisiana State
+2008,13,7,16,223,Alex Brink,Texans,Washington State
+2007,1,1,1,1,JaMarcus Russell,Raiders,Louisiana State
+2007,2,1,22,22,Brady Quinn,Browns,Notre Dame
+2007,3,2,4,36,Kevin Kolb,Eagles,Houston
+2007,4,2,8,40,John Beck,Dolphins,Brigham Young
+2007,5,2,11,43,Drew Stanton,Lions,Michigan State
+2007,6,3,29,92,Trent Edwards,Bills,Stanford
+2007,7,4,4,103,Isaiah Stanback,Cowboys,Washington
+2007,8,5,14,151,Jeff Rowe,Bengals,Nevada
+2007,9,5,37,174,Troy Smith,Ravens,Ohio State
+2007,10,6,31,205,Jordan Palmer,Redskins,Texas-El Paso
+2007,11,7,7,217,Tyler Thigpen,Vikings,Coastal Carolina
+2006,1,1,3,3,Vince Young,Titans,Texas
+2006,2,1,10,10,Matt Leinart,Cardinals,USC
+2006,3,1,11,11,Jay Cutler,Broncos,Vanderbilt
+2006,4,2,17,49,Kellen Clemens,Jets,Oregon
+2006,5,2,32,64,Tarvaris Jackson,Vikings,Alabama State
+2006,6,3,17,81,Charlie Whitehurst,Chargers,Clemson
+2006,7,3,21,85,Brodie Croyle,Chiefs,Alabama
+2006,8,5,15,148,Ingle Martin,Packers,Furman
+2006,9,5,32,164,Omar Jacobs,Steelers,Bowling Green
+2006,10,6,24,193,Reggie McNeal,Bengals,Texas A&M
+2006,11,6,25,194,Bruce Gradkowski,Buccaneers,Toledo
+2006,12,7,15,223,D.J. Shockley,Falcons,Georgia
+2005,1,1,1,1,Alex Smith,49ers,Utah
+2005,2,1,24,24,Aaron Rodgers,Packers,California
+2005,3,1,25,25,Jason Campbell,Redskins,Auburn
+2005,4,3,3,67,Charlie Frye,Browns,Akron
+2005,5,3,5,69,Andrew Walter,Raiders,Arizona State
+2005,6,3,21,85,David Greene,Seahawks,Georgia
+2005,7,4,5,106,Kyle Orton,Bears,Purdue
+2005,8,4,20,121,Stefan Lefors,Panthers,Louisville
+2005,9,5,9,145,Dan Orlovsky,Lions,Connecticut
+2005,10,5,16,152,Adrian McPherson,Saints,Florida State
+2005,11,6,39,213,Derek Anderson,Ravens,Oregon State
+2005,12,7,15,229,James Kilian,Chiefs,Tulsa
+2005,13,7,16,230,Matt Cassel,Patriots,USC
+2005,14,7,36,250,Ryan Fitzpatrick,Rams,Harvard
+2004,1,1,1,1,Eli Manning,Chargers,Mississippi
+2004,2,1,4,4,Philip Rivers,Giants,North Carolina State
+2004,3,1,11,11,Ben Roethlisberger,Steelers,Miami (OH)
+2004,4,1,22,22,J.P. Losman,Bills,Tulane
+2004,5,3,27,90,Matt Schaub,Falcons,Virginia
+2004,6,4,10,106,Luke McCown,Browns,Louisiana Tech
+2004,7,5,16,148,Craig Krenzel,Bears,Ohio State
+2004,8,6,20,185,Andy Hall,Eagles,Delaware
+2004,9,6,22,187,Josh Harris,Ravens,Bowling Green
+2004,10,6,28,193,Jim Sorgi,Colts,Wisconsin
+2004,11,6,36,201,Jeff Smoker,Rams,Michigan State
+2004,12,7,1,202,John Navarre,Cardinals,Michigan
+2004,13,7,16,217,Cody Pickett,49ers,Washington
+2004,14,7,17,218,Casey Bramlet,Bengals,Wyoming
+2004,15,7,24,225,Matt Mauck,Broncos,Louisiana State
+2004,16,7,47,248,B.J. Symons,Texans,Texas Tech
+2004,17,7,49,250,Bradlee Van Pelt,Broncos,Colorado State
+2003,1,1,1,1,Carson Palmer,Bengals,USC
+2003,2,1,7,7,Byron Leftwich,Jaguars,Marshall
+2003,3,1,19,19,Kyle Boller,Ravens,California
+2003,4,1,22,22,Rex Grossman,Bears,Florida
+2003,5,3,24,88,Dave Ragone,Texans,Louisville
+2003,6,3,33,97,Chris Simms,Buccaneers,Texas
+2003,7,4,13,110,Seneca Wallace,Seahawks,Iowa State
+2003,8,5,28,163,Brian St. Pierre,Steelers,Boston College
+2003,9,6,19,192,Drew Henson,Texans,Michigan
+2003,10,6,27,200,Brooks Bollinger,Jets,Wisconsin
+2003,11,6,28,201,Kliff Kingsbury,Patriots,Texas Tech
+2003,12,7,18,232,Gibran Hamdan,Redskins,Indiana
+2003,13,7,27,241,Ken Dorsey,49ers,Miami (FL)
+2002,1,1,1,1,David Carr,Texans,Fresno State
+2002,2,1,3,3,Joey Harrington,Lions,Oregon
+2002,3,1,32,32,Patrick Ramsey,Redskins,Tulane
+2002,4,3,16,81,Josh McCown,Cardinals,Sam Houston State
+2002,5,4,10,108,David Garrard,Jaguars,East Carolina
+2002,6,4,19,117,Rohan Davey,Patriots,Louisiana State
+2002,7,5,2,137,Randy Fasani,Panthers,Stanford
+2002,8,5,23,158,Kurt Kittner,Falcons,Illinois
+2002,9,5,28,163,Brandon Doman,49ers,Brigham Young
+2002,10,5,29,164,Craig Nall,Packers,Northwestern State (LA)
+2002,11,6,14,186,J.T. O'Sullivan,Saints,California-Davis
+2002,12,6,33,205,Steve Bellisari,Rams,Ohio State
+2002,13,7,5,216,Seth Burford,Chargers,Cal Poly-San Luis Obispo
+2002,14,7,21,232,Jeff Kelly,Seahawks,Southern Mississippi
+2002,15,7,24,235,Ronald Curry,Raiders,North Carolina
+2002,16,7,25,236,Wes Pate,Ravens,Stephen F. Austin
+2001,1,1,1,1,Michael Vick,Falcons,Virginia Tech
+2001,2,2,1,32,Drew Brees,Chargers,Purdue
+2001,3,2,22,53,Quincy Carter,Cowboys,Georgia
+2001,4,2,28,59,Marques Tuiasosopo,Raiders,Washington
+2001,5,4,11,106,Chris Weinke,Panthers,Florida State
+2001,6,4,14,109,Sage Rosenfels,Redskins,Iowa State
+2001,7,4,30,125,Jesse Palmer,Giants,Florida
+2001,8,5,18,149,Mike McMahon,Lions,Rutgers
+2001,9,5,24,155,A.J. Feeley,Eagles,Oregon
+2001,10,6,9,172,Josh Booty,Seahawks,Louisiana State
+2001,11,6,14,177,Josh Heupel,Dolphins,Oklahoma
+2000,1,1,18,18,Chad Pennington,Jets,Marshall
+2000,2,3,3,65,Giovanni Carmazzi,49ers,Hofstra
+2000,3,3,13,75,Chris Redman,Ravens,Louisville
+2000,4,5,34,163,Tee Martin,Steelers,Tennessee
+2000,5,6,2,168,Marc Bulger,Saints,West Virginia
+2000,6,6,17,183,Spergon Wynn,Browns,Southwest Texas State
+2000,7,6,33,199,Tom Brady,Patriots,Michigan
+2000,8,6,36,202,Todd Husak,Redskins,Stanford
+2000,9,6,39,205,JaJuan Seider,Chargers,Florida A&M
+2000,10,7,6,212,Tim Rattay,49ers,Louisiana Tech
+2000,11,7,8,214,Jarious Jackson,Broncos,Notre Dame
+2000,12,7,28,234,Joe Hamilton,Buccaneers,Georgia Tech
+1999,1,1,1,1,Tim Couch,Browns,Kentucky
+1999,2,1,2,2,Donovan McNabb,Eagles,Syracuse
+1999,3,1,3,3,Akili Smith,Bengals,Oregon
+1999,4,1,11,11,Daunte Culpepper,Vikings,Central Florida
+1999,5,1,12,12,Cade McNown,Bears,UCLA
+1999,6,2,19,50,Shaun King,Buccaneers,Tulane
+1999,7,3,16,77,Brock Huard,Seahawks,Washington
+1999,8,4,6,101,Joe Germaine,Rams,Ohio State
+1999,9,4,36,131,Aaron Brooks,Packers,Virginia
+1999,10,5,18,151,Kevin Daft,Oilers,California-Davis
+1999,11,7,21,227,Michael Bishop,Patriots,Kansas State
+1999,12,7,33,239,Chris Greisen,Cardinals,Northwest Missouri State
+1999,13,7,39,245,Scott Covington,Bengals,Miami (FL)
+1998,1,1,1,1,Peyton Manning,Colts,Tennessee
+1998,2,1,2,2,Ryan Leaf,Chargers,Washington State
+1998,3,2,30,60,Charlie Batch,Lions,Eastern Michigan
+1998,4,3,25,86,Jonathan Quinn,Jaguars,Middle Tennessee State
+1998,5,3,30,91,Brian Griese,Broncos,Michigan
+1998,6,6,19,172,John Dutton,Dolphins,Nevada
+1998,7,6,34,187,Matt Hasselbeck,Packers,Boston College
+1998,8,7,43,232,Moses Moreno,Bears,Colorado State
+1997,1,1,26,26,Jim Druckenmiller,49ers,Virginia Tech
+1997,2,2,12,42,Jake Plummer,Cardinals,Arizona State
+1997,3,4,3,99,Danny Wuerffel,Saints,Florida
+1997,4,4,14,110,Pat Barnes,Chiefs,California
+1997,5,6,8,171,Mike Cherry,Giants,Murray State
+1997,6,6,28,191,Chuck Clements,Jets,Houston
+1997,7,7,3,204,Tony Graziani,Falcons,Oregon
+1997,8,7,6,207,Koy Detmer,Eagles,Colorado
+1997,9,7,33,234,Wally Richardson,Ravens,Penn State
+1997,10,7,36,237,Tony Corbin,Chargers,Sacramento State
+1997,11,7,39,240,Ronnie McAda,Packers,Army
+1996,1,2,12,42,Tony Banks,Rams,Michigan State
+1996,2,3,24,85,Bobby Hoying,Eagles,Ohio State
+1996,3,4,5,100,Jeff Lewis,Broncos,Northern Arizona
+1996,4,4,35,130,Danny Kanell,Giants,Florida State
+1996,5,6,36,203,Spence Fischer,Steelers,Duke
+1996,6,6,38,205,Mike Cawley,Colts,James Madison
+1996,7,7,29,238,Jon Stark,Ravens,Trinity
+1996,8,7,31,240,Kyle Wachholtz,Packers,USC
+1995,1,1,3,3,Steve McNair,Oilers,Alcorn State
+1995,2,1,5,5,Kerry Collins,Panthers,Penn State
+1995,3,2,13,45,Todd Collins,Bills,Michigan
+1995,4,2,28,60,Kordell Stewart,Steelers,Colorado
+1995,5,3,16,80,Stoney Case,Cardinals,New Mexico
+1995,6,3,20,84,Eric Zeier,Browns,Georgia
+1995,7,4,1,99,Rob Johnson,Jaguars,USC
+1995,8,4,13,111,Chad May,Vikings,Kansas State
+1995,9,4,21,119,Dave Barr,Eagles,California
+1995,10,4,36,134,Steve Stenstrom,Chiefs,Stanford
+1995,11,5,26,160,Jay Barker,Packers,Alabama
+1995,12,6,20,191,Jerry Colquitt,Panthers,Tennessee
+1995,13,6,26,197,Craig Whelihan,Chargers,Pacific
+1995,14,7,5,213,John Walsh,Bengals,Brigham Young
+1994,1,1,3,3,Heath Shuler,Redskins,Tennessee
+1994,2,1,6,6,Trent Dilfer,Buccaneers,Fresno State
+1994,3,4,8,111,Perry Klein,Falcons,C.W. Post
+1994,4,4,13,116,Doug Nussmeier,Saints,Idaho
+1994,5,6,17,178,Jim Miller,Steelers,Michigan State
+1994,6,7,3,197,Gus Frerotte,Redskins,Tulsa
+1994,7,7,4,198,Jay Walker,Patriots,Howard
+1994,8,7,5,199,Steve Matthews,Chiefs,Memphis
+1994,9,7,14,208,Glenn Foley,Jets,Boston College
+1993,1,1,1,1,Drew Bledsoe,Patriots,Washington State
+1993,2,1,2,2,Rick Mirer,Seahawks,Notre Dame
+1993,3,3,2,58,Billy Joe Hobert,Raiders,Washington
+1993,4,5,6,118,Mark Brunell,Packers,Washington
+1993,5,7,24,192,Gino Torretta,Vikings,Miami (FL)
+1993,6,8,20,216,Alex Van Pelt,Steelers,Pittsburgh
+1993,7,8,23,219,Elvis Grbac,49ers,Michigan
+1993,8,8,26,222,Trent Green,Chargers,Indiana
+1992s,1,1,0,0,Dave Brown,Giants,Duke
+1992,1,1,6,6,David Klingler,Bengals,Houston
+1992,2,1,25,25,Tommy Maddox,Broncos,UCLA
+1992,3,2,12,40,Matt Blundin,Chiefs,Virginia
+1992,4,2,18,46,Tony Sacca,Cardinals,Penn State
+1992,5,4,2,86,Craig Erickson,Buccaneers,Miami (FL)
+1992,6,4,18,102,Casey Weldon,Eagles,Florida State
+1992,7,4,23,107,Will Furrer,Bears,Virginia Tech
+1992,8,4,28,112,Chris Hakel,Redskins,William & Mary
+1992,9,6,26,166,Jeff Blake,Jets,East Carolina
+1992,10,8,2,198,Ricky Jones,Rams,Alabama State
+1992,11,8,15,211,Kent Graham,Giants,Ohio State
+1992,12,8,24,220,Bucky Richardson,Oilers,Texas A&M
+1992,13,8,26,222,Mike Pawlawski,Buccaneers,California
+1992,14,9,3,227,Brad Johnson,Vikings,Florida State
+1992,15,9,4,228,T.J. Rubley,Rams,Tulsa
+1992,16,9,6,230,Ty Detmer,Packers,Brigham Young
+1992,17,11,16,296,Mark Barsotti,Dolphins,Fresno State
+1992,18,12,8,316,Keithen McCant,Browns,Nebraska
+1992,19,12,10,318,Cornelius Benton,Steelers,Connecticut
+1992,20,12,27,335,Matt Rodgers,Bills,Iowa
+1991,1,1,16,16,Dan McGwire,Seahawks,San Diego State
+1991,2,1,24,24,Todd Marinovich,Raiders,USC
+1991,3,2,6,33,Brett Favre,Falcons,Southern Mississippi
+1991,4,2,7,34,Browning Nagle,Jets,Louisville
+1991,5,4,1,84,Scott Zolak,Patriots,Maryland
+1991,6,4,16,99,Donald Hollas,Bengals,Rice
+1991,7,4,23,106,Bill Muscrave,Cowboys,Oregon
+1991,8,5,20,131,Craig Erickson,Eagles,Miami (FL)
+1991,9,7,23,190,Paul Justin,Bears,Arizona State
+1991,10,10,10,260,Pat O'Hara,Buccaneers,USC
+1991,11,11,6,284,Shawn Moore,Broncos,Virginia
+1991,12,12,3,309,Jeff Bridewell,Cardinals,California-Davis
+1991,13,12,28,334,Larry Wanke,Giants,John Carroll
+1990,1,1,1,1,Jeff George,Colts,Illinois
+1990,2,1,7,7,Andre Ware,Lions,Houston
+1990,3,3,6,59,Tommy Hodson,Patriots,Louisiana State
+1990,4,3,10,63,Peter Tom Willis,Bears,Florida State
+1990,5,3,17,70,Neil O'Donnell,Steelers,Maryland
+1990,6,4,3,84,Troy Taylor,Jets,California
+1990,7,4,5,86,Cary Conklin,Redskins,Washington
+1990,8,4,12,93,Scott Mitchell,Dolphins,Utah
+1990,9,5,26,135,Craig Kupp,Giants,Pacific Lutheran
+1990,10,6,1,138,John Friesz,Chargers,Idaho
+1990,11,6,19,156,Mike Buck,Saints,Maine
+1990,12,8,14,207,Gerry Gdowski,Saints,Nebraska
+1990,13,9,22,242,Kirk Baumgartner,Packers,Wisconsin-Stevens Point
+1990,14,9,27,247,Todd Ellis,Broncos,South Carolina
+1990,15,11,20,296,Clemente Gordon,Browns,Grambling State
+1990,16,12,3,307,Todd Hammel,Buccaneers,Stephen F. Austin
+1990,17,12,7,311,Gene Benhart,Colts,Western Illinois
+1990,18,12,8,312,John Gromos,Seahawks,Vanderbilt
+1990,19,12,13,317,Major Harris,Raiders,West Virginia
+1990,20,12,17,321,Reggie Slack,Oilers,Auburn
+1989s,1,1,0,0,Steve Walsh,Cowboys,Miami (FL)
+1989s,2,1,0,0,Timm Rosenbach,Cardinals,Washington State
+1989,1,1,1,1,Troy Aikman,Cowboys,UCLA
+1989,2,2,4,32,Mike Elkins,Chiefs,Wake Forest
+1989,3,2,23,51,Billy Joe Tolliver,Chargers,Texas Tech
+1989,4,3,18,74,Anthony Dilweg,Packers,Duke
+1989,5,3,27,83,Erik Wilhelm,Bengals,Oregon State
+1989,6,4,3,87,Jeff Graham,Packers,Long Beach State
+1989,7,4,18,102,Jeff Carlson,Rams,Weber State
+1989,8,6,1,140,Jeff Francis,Raiders,Tennessee
+1989,9,6,2,141,Rodney Peete,Lions,USC
+1989,10,7,25,192,Brent Snyder,Bears,Utah State
+1989,11,7,28,195,Terrance Jones,Chargers,Tulane
+1989,12,8,7,202,Paul Singer,Falcons,Western Illinois
+1989,13,10,27,278,Bob Jean,Bengals,New Hampshire
+1989,14,11,17,296,Wayne Johnson,Colts,Georgia
+1989,15,12,16,323,Steve Taylor,Colts,Nebraska
+1989,16,12,18,325,Chuck Hartlieb,Oilers,Iowa
+1988,1,3,13,68,Tom Tupa,Cardinals,Ohio State
+1988,2,3,21,76,Chris Chandler,Colts,Washington
+1988,3,6,12,149,Don McPherson,Eagles,Syracuse
+1988,4,6,14,151,Scott Secules,Cowboys,Virginia
+1988,5,6,22,159,Stan Humphries,Redskins,N.E. Louisiana
+1988,6,7,10,175,Mike Perez,Giants,San Jose State
+1988,7,7,15,180,Kerwin Bell,Dolphins,Florida
+1988,8,10,7,256,Bud Keyes,Packers,Wisconsin
+1988,9,10,25,274,Todd Santos,Saints,San Diego State
+1988,10,11,4,281,Danny McCoin,Lions,Cincinnati
+1988,11,11,5,282,Danny McManus,Chiefs,Florida State
+1988,12,11,6,283,David Weber,Raiders,Carroll College
+1988,13,12,23,328,Steve Slayden,Browns,Duke
+1987,1,1,1,1,Vinny Testaverde,Buccaneers,Miami (FL)
+1987,2,1,6,6,Kelly Stouffer,Cardinals,Colorado State
+1987,3,1,13,13,Chris Miller,Falcons,Oregon
+1987,4,1,26,26,Jim Harbaugh,Bears,Michigan
+1987,5,3,8,64,Cody Carlson,Oilers,Baylor
+1987,6,4,4,88,Mark Vlasic,Chargers,Iowa
+1987,7,4,14,98,Rich Gannon,Patriots,Delaware
+1987,8,4,26,110,Steve Beuerlein,Raiders,Notre Dame
+1987,9,7,12,180,Kevin Sweeney,Cowboys,Fresno State
+1987,10,7,18,186,Doug Hudson,Chiefs,Nicholls State
+1987,11,8,21,216,Sammy Garza,Seahawks,Texas-El Paso
+1987,12,9,9,232,Ken Lambiotte,Eagles,William & Mary
+1987,13,10,4,255,Don Majkowski,Packers,Virginia
+1987,14,10,24,275,John Paye,49ers,Stanford
+1987,15,11,16,295,Brent Pease,Vikings,Montana
+1987,16,11,28,307,Dave Walter,Giants,Michigan Tech
+1987,17,12,6,313,Mike Shula,Buccaneers,Alabama
+1987,18,12,15,322,Jim Karsatos,Dolphins,Ohio State
+1987,19,12,20,327,Bill Ransdell,Jets,Kentucky
+1986,1,1,3,3,Jim Everett,Oilers,Purdue
+1986,2,1,12,12,Chuck Long,Lions,Iowa
+1986,3,2,20,47,Jack Trudeau,Colts,Illinois
+1986,4,3,12,67,Bubby Brister,Steelers,N.E. Louisiana
+1986,5,3,16,71,Hugh Millen,Rams,Washington
+1986,6,3,17,72,Robbie Bosco,Packers,Brigham Young
+1986,7,4,17,99,Doug Gaynor,Bengals,Long Beach State
+1986,8,6,8,146,Mark Rypien,Redskins,Washington State
+1986,9,6,12,150,Stan Gelbaugh,Cowboys,Maryland
+1986,10,7,8,174,Mike Norseth,Browns,Kansas
+1986,11,10,25,274,Jeff Wickersham,Dolphins,Louisiana State
+1986,12,11,3,280,Chris Hegg,Falcons,N.E. Missouri State
+1986,13,11,14,291,David Norrie,Seahawks,UCLA
+1986,14,12,7,312,Kent Austin,Cardinals,Mississippi
+1986,15,12,8,313,Brian McClure,Bills,Bowling Green
+1986,16,12,11,316,Steve Bradley,Bengals,Indiana
+1985s,1,1,0,0,Bernie Kosar,Browns,Miami (FL)
+1985,1,2,9,37,Randall Cunningham,Eagles,UNLV
+1985,2,3,1,57,Frank Reich,Bills,Maryland
+1985,3,6,2,142,Steve Bono,Vikings,UCLA
+1985,4,6,3,143,Rusty Hilger,Raiders,Oklahoma State
+1985,5,6,28,168,Scott Barry,49ers,California-Davis
+1985,6,9,8,232,Steve Calabria,Buccaneers,Colgate
+1985,7,9,10,234,Paul Berner,Chargers,Pacific
+1985,8,10,17,269,Buddy Funck,Broncos,New Mexico
+1985,9,10,25,277,John Conner,Seahawks,Arizona
+1985,10,11,5,285,Doug Flutie,Rams,Boston College
+1985,11,11,14,294,Joe Shield,Packers,Trinity
+1984u,1,1,1,1,Steve Young,Buccaneers,Brigham Young
+1984u,2,1,7,7,Wayne Peace,Bengals,Florida
+1984u,3,1,10,10,Ken Hobart,Jets,Idaho
+1984u,4,2,5,33,Steve Smith,Chargers,Michigan
+1984u,5,2,20,48,Rick Johnson,Rams,Southern Illinois
+1984u,6,3,8,64,Turner Gill,Jets,Nebraska
+1984u,7,3,14,70,Walter Lewis,Patriots,Alabama
+1984u,8,3,17,73,Tim Riordan,Cardinals,Temple
+1984u,9,3,20,76,Frank Seurer,Seahawks,Kansas
+1984u,10,3,21,77,John Bond,Browns,Mississippi State
+1984,1,2,10,38,Boomer Esiason,Bengals,Maryland
+1984,2,3,3,59,Jeff Hostetler,Giants,West Virginia
+1984,3,3,24,80,Rick McIvor,Cardinals,Texas
+1984,4,3,27,83,Jay Schroeder,Redskins,UCLA
+1984,5,5,1,113,Steve Pelluer,Cowboys,Washington
+1984,6,5,26,138,Dean May,Dolphins,Louisville
+1984,7,6,8,148,Ben Bennett,Falcons,Duke
+1984,8,6,13,153,Randy Wright,Packers,Wisconsin
+1984,9,6,18,158,Terry Nugent,Browns,Colorado State
+1984,10,6,20,160,John Witkowski,Lions,Columbia
+1984,11,7,23,191,Scott Campbell,Steelers,Purdue
+1984,12,9,20,244,Mark Casale,Bears,Montclair State
+1984,13,11,1,281,Blair Kiel,Buccaneers,Notre Dame
+1984,14,11,17,297,Kyle Mackey,Cardinals,East Texas State
+1984,15,12,28,336,Randy Essington,Raiders,Colorado
+1983,1,1,1,1,John Elway,Colts,Stanford
+1983,2,1,7,7,Todd Blackledge,Chiefs,Penn State
+1983,3,1,14,14,Jim Kelly,Bills,Miami (FL)
+1983,4,1,15,15,Tony Eason,Patriots,Illinois
+1983,5,1,24,24,Ken O'Brien,Jets,California-Davis
+1983,6,1,27,27,Dan Marino,Dolphins,Pittsburgh
+1983,7,5,25,137,Jeff Christensen,Bengals,Eastern Illinois
+1983,8,6,22,162,Reggie Collier,Cowboys,Southern Mississippi
+1983,9,6,28,168,Babe Laufenberg,Redskins,Indiana
+1983,10,8,1,197,Gary Kubiak,Broncos,Texas A&M
+1983,11,10,16,267,Tom Ramsey,Patriots,UCLA
+1983,12,10,21,272,Bruce Mathison,Chargers,Nebraska
+1983,13,11,1,280,Jim Bob Taylor,Colts,Georgia Tech
+1983,14,12,4,311,Clete Castper,Rams,Washington State
+1983,15,12,5,312,David Mangrum,Eagles,Baylor
+1983,16,12,26,333,Scott Lindquist,Raiders,Northern Arizona
+1982,1,1,4,4,Art Schlichter,Colts,Ohio State
+1982,2,1,5,5,Jim McMahon,Bears,Brigham Young
+1982,3,2,17,44,Oliver Luck,Oilers,West Virginia
+1982,4,2,21,48,Matt Kofler,Bills,San Diego State
+1982,5,4,1,84,Mike Pagel,Colts,Arizona State
+1982,6,6,10,149,Mike Kelley,Falcons,Georgia Tech
+1982,7,6,15,154,Mike Machurek,Lions,Idaho State
+1982,8,8,23,218,Luc Tousignant,Bills,Fairmont State
+1982,9,9,19,242,Bob Lane,Buccaneers,N.E. Louisiana
+1982,10,9,28,251,Bryan Clark,49ers,Michigan State
+1982,11,10,10,261,Ron Reeves,Oilers,Texas Tech
+1982,12,11,3,282,Steve Michuta,Browns,Grand Valley State
+1982,13,11,12,291,Bob Holly,Redskins,Princeton
+1982,14,11,17,296,Steve Sandon,Patriots,Northern Iowa
+1982,15,12,27,333,Dan Feraday,Bengals,Toronto
+1981s,1,1,0,0,Dave Wilson,Saints,Illinois
+1981,1,1,6,6,Rich Campbell,Packers,California
+1981,2,2,5,33,Neil Lomax,Cardinals,Portland State
+1981,3,4,7,90,Tom Flick,Redskins,Washington
+1981,4,4,13,96,Brad Wright,Dolphins,New Mexico
+1981,5,4,15,98,Mark Herrmann,Broncos,Purdue
+1981,6,8,14,207,Mark Reed,Giants,Morehead State
+1981,7,8,17,210,Wade Wilson,Vikings,East Texas State
+1981,8,9,7,228,Mike Ford,Buccaneers,Southern Methodist
+1981,9,10,7,255,Nickie Hall,Packers,Tulane
+1981,10,10,9,257,Phil Kessel,Redskins,Northern Michigan
+1981,11,10,12,260,Tim Clifford,Bears,Indiana
+1981,12,11,15,291,Jim Jensen,Dolphins,Boston University
+1981,13,11,16,292,Rick Trocano,Steelers,Pittsburgh
+1981,14,11,19,295,Brian Buckley,Patriots,Harvard
+1981,15,12,8,312,Mark O'Connell,Bengals,Ball State
+1981,16,12,15,319,Bob Gagliano,Chiefs,Utah State
+1981,17,12,18,322,Joe Adams,49ers,Tennessee State
+1980,1,1,15,15,Marc Wilson,Raiders,Brigham Young
+1980,2,1,28,28,Mark Malone,Steelers,Arizona State
+1980,3,2,9,37,Gene Bradley,Bills,Arkansas State
+1980,4,4,2,85,Eric Hipple,Lions,Utah State
+1980,5,4,6,89,Rusty Lisch,Cardinals,Notre Dame
+1980,6,4,18,101,Ed Luther,Chargers,San Jose State
+1980,7,4,26,109,Paul McDonald,Browns,USC
+1980,8,5,23,133,Gary Hogeboom,Cowboys,Central Michigan
+1980,9,6,7,145,Scott Brunner,Giants,Delaware
+1980,10,7,17,182,Craig Bradshaw,Oilers,Utah State
+1980,11,8,9,202,Todd Krueger,Bills,Northern Michigan
+1980,12,8,21,214,David Woodley,Dolphins,Louisiana State
+1980,13,8,24,217,Harold Bailey,Oilers,Oklahoma State
+1980,14,9,16,237,Dan Hartwig,49ers,California-Lutheran
+1980,15,9,21,242,Turk Schonert,Bears,Stanford
+1980,16,12,3,308,Mike Wright,Bengals,Vanderbilt
+1980,17,12,15,320,Jimmy Jordan,Patriots,Florida State
+1980,18,12,27,332,Kevin Scanlon,Rams,Arkansas
+1979,1,1,3,3,Jack Thompson,Bengals,Washington State
+1979,2,1,7,7,Phil Simms,Giants,Morehead State
+1979,3,1,23,23,Steve Fuller,Chiefs,Clemson
+1979,4,3,26,82,Joe Montana,49ers,Notre Dame
+1979,5,4,15,97,Steve Dils,Vikings,Stanford
+1979,6,5,6,116,Dan Manucci,Bills,Kansas State
+1979,7,5,22,132,Rick Leach,Broncos,Michigan
+1979,8,5,23,133,Chuck Fusina,Buccaneers,Penn State
+1979,9,6,17,154,Mike Moroski,Falcons,California-Davis
+1979,10,9,11,231,Jeff Komlo,Lions,Delaware
+1979,11,9,26,246,Jeff Rutledge,Rams,Alabama
+1979,12,10,5,253,Dave Marler,Bills,Mississippi State
+1979,13,11,13,288,Danny Sanders,Jets,Carson-Newman
+1979,14,11,20,295,Dave Rader,Chargers,Tulsa
+1979,15,12,24,327,Larry Fortner,Dolphins,Miami (OH)
+1978,1,1,17,17,Doug Williams,Buccaneers,Grambling State
+1978,2,2,22,50,Matt Cavanaugh,Patriots,Pittsburgh
+1978,3,2,23,51,Guy Benjamin,Dolphins,Stanford
+1978,4,3,12,68,Mark Miller,Browns,Bowling Green
+1978,5,3,17,73,Gifford Nielsen,Oilers,Brigham Young
+1978,6,4,20,104,Pete Woods,Chiefs,Missouri
+1978,7,4,21,105,Mark Manges,Rams,Maryland
+1978,8,5,21,131,Rob Hertel,Bengals,USC
+1978,9,6,4,142,Mike Rieker,Saints,Lehigh
+1978,10,8,6,200,Dennis Sproul,Packers,Arizona State
+1978,11,9,6,228,Keith Myers,Packers,Utah State
+1978,12,9,21,243,John Hurley,Redskins,Santa Clara
+1978,13,11,3,281,Pat Ryan,Jets,Tennessee
+1978,14,12,27,333,Bill Kenney,Dolphins,Northern Colorado
+1977,1,1,19,19,Steve Pisarkiewicz,Cardinals,Missouri
+1977,2,1,27,27,Tommy Kramer,Vikings,Rice
+1977,3,2,26,54,Glenn Carano,Cowboys,UNLV
+1977,4,4,7,91,Vince Ferragamo,Rams,Nebraska
+1977,5,5,3,115,Fred Besana,Bills,California
+1977,6,5,5,117,Randy Dean,Giants,Northwestern
+1977,7,5,9,121,Cliff Stoudt,Steelers,Youngstown State
+1977,8,5,16,128,Cliff Olander,Chargers,New Mexico State
+1977,9,6,1,140,Vince Evans,Bears,USC
+1977,10,6,21,160,Tommy Duniven,Bengals,Texas Tech
+1977,11,8,1,196,Randy Hedberg,Buccaneers,Minot State
+1977,12,8,11,206,David Whitehurst,Packers,Furman
+1977,13,9,4,227,Matt Robinson,Jets,Georgia
+1977,14,9,13,236,Steve Mathieson,Lions,Florida State
+1977,15,10,3,254,Sam Adkins,Seahawks,Wichita State
+1977,16,10,10,261,Mark Vitali,Chiefs,Purdue
+1977,17,10,24,275,Steve DeBerg,Cowboys,San Jose State
+1977,18,11,7,286,Mike Cordova,Eagles,Stanford
+1976,1,1,6,6,Richard Todd,Jets,Alabama
+1976,2,2,19,47,Mike Kruczek,Steelers,Boston College
+1976,3,2,22,50,Jeb Blount,Raiders,Tulsa
+1976,4,4,1,93,Steve Myer,Seahawks,New Mexico
+1976,5,4,5,97,Gene Swick,Browns,Toledo
+1976,6,4,15,107,Craig Penrose,Broncos,San Diego State
+1976,7,5,19,143,Mike Kirkland,Colts,Arkansas
+1976,8,6,21,177,Scott Bull,49ers,Arkansas
+1976,9,7,1,183,Parnell Dickinson,Buccaneers,Mississippi Valley State
+1976,10,7,5,187,Bob Bateman,Bengals,Brown
+1976,11,8,6,215,Scott Gardner,Bills,Virginia
+1976,12,9,24,261,Craig Nagel,Browns,Purdue
+1976,13,10,19,284,Steve Kincannon,Oilers,Humboldt State
+1976,14,10,24,289,Bill Salmon,Vikings,Northern Iowa
+1976,15,11,3,294,Greg Kokal,Saints,Kent State
+1976,16,11,27,318,Cornelius Greene,Cowboys,Ohio State
+1976,17,12,8,327,Dave Buckey,Jets,North Carolina State
+1976,18,12,14,333,Jerry Golsteyn,Giants,Northern Illinois
+1976,19,13,14,361,Joe Bruner,Chiefs,N.E. Louisiana
+1976,20,13,26,373,Steve Hamilton,Rams,Emporia State
+1976,21,13,27,374,Mark Driscoll,Cowboys,Colorado State
+1976,22,15,22,425,Lynn Hieber,Bengals,Indiana (PA)
+1976,23,17,1,460,Jack Berry,Buccaneers,Washington & Lee
+1976,24,17,2,461,Chris Rowland,Seahawks,Washington
+1976,25,17,21,480,Jeff Grantz,Dolphins,South Carolina
+1975,1,1,1,1,Steve Bartkowski,Falcons,California
+1975,2,3,2,54,Mike Franckowiak,Broncos,Central Michigan
+1975,3,3,12,64,Gary Sheide,Bengals,Brigham Young
+1975,4,5,12,116,Steve Grogan,Patriots,Kansas State
+1975,5,5,24,128,David Humm,Raiders,Nebraska
+1975,6,6,5,135,Bob Avellini,Bears,Maryland
+1975,7,6,12,142,Tom Shuman,Bengals,Penn State
+1975,8,7,4,160,Steve Joachim,Colts,Temple
+1975,9,7,20,176,Pat Haden,Rams,USC
+1975,10,9,24,232,Harry Knight,Raiders,Richmond
+1975,11,12,9,295,Rich Worley,49ers,Howard Payne
+1975,12,12,10,296,Carlos Brown,Packers,Pacific
+1975,13,14,12,350,Jim McMillan,Lions,Boise State
+1975,14,14,23,361,John Graham,Dolphins,Colorado State
+1975,15,14,24,362,Tom Doyle,Raiders,Yale
+1975,16,15,19,383,Chris Kupec,Bills,North Carolina
+1975,17,15,21,385,Alvin White,Rams,Oregon State
+1975,18,16,2,392,Bill Malouf,Colts,Mississippi
+1975,19,17,3,419,Mitch Anderson,Falcons,Northwestern
+1975,20,17,7,423,Neal Jeffrey,Chargers,Baylor
+1974,1,3,1,53,Danny White,Cowboys,Arizona State
+1974,2,3,14,66,David Jaynes,Chiefs,Kansas
+1974,3,3,17,69,Kim McQuilken,Falcons,Lehigh
+1974,4,3,18,70,Gary Marangi,Bills,Boston College
+1974,5,4,2,80,Carl Summerell,Giants,East Carolina
+1974,6,4,9,87,Mike Boryla,Bengals,Stanford
+1974,7,4,21,99,Norris Weese,Rams,Mississippi
+1974,8,6,3,133,Jesse Freitas,Chargers,San Diego State
+1974,9,8,4,186,Alan Chadwick,Bears,East Tennessee State
+1974,10,8,21,203,Greg Hare,Bills,Ohio State
+1974,11,10,26,260,Gary Valbuena,Dolphins,Tennessee
+1974,12,12,21,307,Bob Bobrowski,Colts,Purdue
+1974,13,12,23,309,Keith Bobo,Cowboys,Southern Methodist
+1974,14,13,10,322,Tom Owen,49ers,Wichita State
+1974,15,13,21,333,Frank Kolch,Steelers,Eastern Michigan
+1974,16,14,23,361,Don Van Galder,Redskins,Utah
+1974,17,15,9,373,Larry Gipa,Saints,Michigan
+1974,18,15,15,379,Peil Pennington,Broncos,Massachusetts
+1974,19,17,4,420,Craig Holland,Bears,Texas-Arlington
+1973,1,1,2,2,Bert Jones,Colts,Louisiana State
+1973,2,2,7,33,Gary Huff,Bears,Florida State
+1973,3,2,11,37,Ron Jaworski,Rams,Youngstown State
+1973,4,2,19,45,Gary Keithley,Cardinals,Texas-El Paso
+1973,5,3,5,57,Joe Ferguson,Bills,Arkansas
+1973,6,3,12,64,Dan Fouts,Chargers,Oregon
+1973,7,4,2,80,Mike Wells,Vikings,Illinois
+1973,8,4,22,100,Randolph Mattingly,Browns,Evansville
+1973,9,5,7,111,Don Strock,Dolphins,Virginia Tech
+1973,10,8,22,204,Dan Werner,Cowboys,Michigan State
+1973,11,8,23,205,Mike Rae,Raiders,USC
+1973,12,9,17,225,Ty Paine,Giants,Washington State
+1973,13,10,6,240,Matthew Reed,Bills,Grambling State
+1973,14,13,10,322,Tom Pierantozzi,Colts,West Chester (PA)
+1973,15,14,5,343,Tony Adams,Chargers,Utah State
+1973,16,14,10,348,John Hufnagel,Broncos,Penn State
+1973,17,14,13,351,John Madeys,Falcons,Louisville
+1973,18,14,19,357,Dennis Morrison,49ers,Kansas State
+1973,19,15,16,380,Ted McNulty,Bengals,Indiana
+1973,20,17,4,420,Eddie McAshan,Patriots,Georgia Tech
+1973,21,17,5,421,Eric Crone,Cardinals,Harvard
+1973,22,17,17,433,Wayne Estabrook,Bengals,Whittier
+1972,1,1,11,11,Jerry Tagge,Packers,Nebraska
+1972,2,1,14,14,John Reaves,Eagles,Florida
+1972,3,2,14,40,Pat Sullivan,Falcons,Auburn
+1972,4,7,11,167,Jim Fassel,Bears,Long Beach State
+1972,5,7,23,179,Dean Carlson,Chiefs,Iowa State
+1972,6,8,22,204,Van Brownson,Colts,Nebraska
+1972,7,8,25,207,Craig Curry,Dolphins,Minnesota
+1972,8,10,16,250,Mike Franks,Cardinals,Eastern New Mexico
+1972,9,11,13,273,Joe Gilliam,Steelers,Tennessee State
+1972,10,12,21,307,Don Bunce,Redskins,Stanford
+1972,11,13,2,314,James Hamilton,Bengals,Arizona State
+1972,12,13,18,330,Brian Sipe,Browns,San Diego State
+1972,13,14,18,356,Eric Guthrie,49ers,Boise State
+1972,14,15,8,372,Rusty Lachaussee,Saints,Tulane
+1972,15,16,1,391,Brian Linstrom,Bills,Arizona
+1972,16,16,22,412,Gary Wichard,Colts,C.W. Post
+1972,17,16,24,414,Neil Graff,Vikings,Wisconsin
+1972,18,16,26,416,Gordon Longmire,Cowboys,Utah
+1972,19,17,5,421,Kelly Cochrane,Oilers,Miami (FL)
+1971,1,1,1,1,Jim Plunkett,Patriots,Stanford
+1971,2,1,2,2,Archie Manning,Saints,Mississippi
+1971,3,1,3,3,Dan Pastorini,Oilers,Santa Clara
+1971,4,3,4,56,Lynn Dickey,Oilers,Kansas State
+1971,5,3,7,59,Leo Hart,Falcons,Duke
+1971,6,3,15,67,Ken Anderson,Bengals,Augustana (IL)
+1971,7,3,26,78,Karl Douglas,Colts,Texas A&I
+1971,8,4,21,99,Joe Theismann,Dolphins,Notre Dame
+1971,9,5,11,115,Bryant Salter,Chargers,Pittsburgh
+1971,10,6,10,140,Scott Hunter,Packers,Alabama
+1971,11,6,20,150,Frank Harris,Lions,Boston College
+1971,12,7,11,167,Buddy Lee,Bears,Louisiana State
+1971,13,10,26,260,Rex Kern,Colts,Ohio State
+1971,14,11,20,280,Charlie Richards,Rams,Richmond
+1971,15,11,23,283,Joe Reed,49ers,Mississippi State
+1971,16,12,17,303,Tim Von Dulm,Cardinals,Portland State
+1971,17,12,25,311,Steve Goepel,Cowboys,Colgate
+1971,18,13,4,316,Busty Underwood,Bills,Texas Christian
+1971,19,13,9,321,Craig Blackford,Broncos,Evansville
+1971,20,13,16,328,Chuck Hixon,Chiefs,Southern Methodist
+1971,21,14,2,340,Bobby Scott,Saints,Tennessee
+1971,22,14,11,349,Bill Bynum,Redskins,Western New Mexico
+1971,23,15,12,376,Ron Maciejowski,Bears,Ohio State
+1970,1,1,1,1,Terry Bradshaw,Steelers,Louisiana Tech
+1970,2,1,3,3,Mike Phipps,Browns,Purdue
+1970,3,2,4,30,Dennis Shaw,Bills,San Diego State
+1970,4,2,25,51,Bill Cappleman,Vikings,Florida State
+1970,5,5,22,126,Steve Ramsey,Saints,North Texas State
+1970,6,6,1,131,Bob Cutburth,Bears,Oklahoma State
+1970,7,6,9,139,Rusty Clark,49ers,Houston
+1970,8,6,21,151,Mike Cilek,Browns,Iowa
+1970,9,7,18,174,Gordon Slade,Colts,Davidson
+1970,10,8,16,198,Wayne Clark,Chargers,U.S. International
+1970,11,8,19,201,Mike Holmgren,Cardinals,USC
+1970,12,12,22,308,Larry Arnold,Rams,Hawaii
+1970,13,16,11,401,Bob Stewart,Broncos,Northern Arizona
+1969,1,1,5,5,Greg Cook,Bengals,Cincinnati
+1969,2,1,9,9,Marty Domres,Chargers,Columbia
+1969,3,2,4,30,Terry Hanratty,Steelers,Notre Dame
+1969,4,2,15,41,Bobby Douglass,Bears,Kansas
+1969,5,2,26,52,Al Woodall,Jets,Duke
+1969,6,5,6,110,Onree Jackson,Patriots,Alabama A&M
+1969,7,8,10,192,James Harris,Bills,Grambling State
+1969,8,8,25,207,Sam Havrilak,Colts,Bucknell
+1969,9,9,24,232,Larry Good,Colts,Georgia Tech
+1969,10,10,2,236,Sonny Wade,Eagles,Emory & Henry
+1969,11,10,22,256,Bob Naponic,Oilers,Illinois
+1969,12,11,10,270,Alan Pastrana,Broncos,Maryland
+1969,13,11,17,277,Brian Dowling,Vikings,Yale
+1969,14,12,21,307,Tim Carr,Rams,C.W. Post
+1969,15,12,22,308,Bob Belden,Cowboys,Notre Dame
+1969,16,13,15,332,Tom Boutwell,Browns,Southern Mississippi
+1969,17,14,19,357,Ed Roseborough,Cardinals,Arizona State
+1969,18,16,7,397,Ed Hargett,Saints,Texas A&M
+1969,19,17,9,425,Buster O'Brien,Broncos,Richmond
+1968,1,1,11,11,Greg Landry,Lions,Massachusetts
+1968,2,1,25,25,Eldridge Dickey,Raiders,Tennessee State
+1968,3,2,3,30,Gary Beban,Rams,UCLA
+1968,4,2,21,48,Mike Livingston,Chiefs,Southern Methodist
+1968,5,2,25,52,Ken Stabler,Raiders,Alabama
+1968,6,3,1,56,Gary Davis,Bengals,Vanderbilt
+1968,7,3,12,67,Billy Stevens,Packers,Texas-El Paso
+1968,8,5,4,115,Ronnie South,Saints,Arkansas
+1968,9,6,4,142,Kim Hammond,Dolphins,Florida State
+1968,10,6,17,155,Dewey Warren,Bengals,Tennessee State
+1968,11,7,5,170,John Schneider,Patriots,Toledo
+1968,12,8,9,201,Danny Holman,Steelers,San Jose State
+1968,13,9,10,229,Greg Barton,Lions,Tulsa
+1968,14,11,9,282,Kim King,Steelers,Georgia Tech
+1968,15,11,20,293,Jim Alcorn,Browns,Clarion
+1968,16,12,15,315,Henry Johnson,49ers,Fisk
+1968,17,13,9,336,Dan Darragh,Bills,William & Mary
+1968,18,14,3,357,Marlin Briscoe,Broncos,Nebraska-Omaha
+1968,19,15,6,387,Jim Haynie,Vikings,West Chester (PA)
+1968,20,15,23,404,Jeff Beaver,Colts,North Carolina
+1968,21,16,23,431,Jimmy Raye,Rams,Michigan State
+1968,22,17,6,441,Bob Lee,Vikings,Pacific
+1967,1,1,3,3,Steve Spurrier,49ers,Florida
+1967,2,1,4,4,Bob Griese,Dolphins,Purdue
+1967,3,1,25,25,Don Horn,Packers,San Diego State
+1967,4,2,4,30,Bob David,Oilers,Virginia
+1967,5,3,16,69,Vidal Carlin,Cardinals,North Texas State
+1967,6,6,4,137,Terry Southall,Colts,Baylor
+1967,7,6,8,141,Tim Jones,Lions,Weber State
+1967,8,6,9,142,Virgil Carter,Bears,Brigham Young
+1967,9,6,22,155,Rick Egloff,Raiders,Wyoming
+1967,10,7,3,162,Corey Colehour,Falcons,North Dakota
+1967,11,7,9,168,Bruce Matte,Redskins,Miami (OH)
+1967,12,8,7,192,John Foruria,Steelers,Idaho
+1967,13,8,23,208,Steve Laub,Cowboys,Illinois Wesleyan
+1967,14,10,6,243,Paul Krause,Broncos,Dubuque
+1967,15,11,24,287,Dave Bennett,Packers,Springfield (MA)
+1967,16,12,19,309,Ben Monroe,Eagles,New Mexico
+1967,17,16,6,399,Jack Lentz,Broncos,Holy Cross
+1967,18,16,23,416,Paul Brothers,Cowboys,Oregon State
+1967,19,17,5,424,Bill Buckner,Falcons,Delta State
+1967,20,17,11,430,Bob Biletnikoff,Jets,Miami (FL)
+1967,21,17,13,432,Dan Talbott,49ers,North Carolina
+1966,1,1,16,16,Randy Johnson,Falcons,Texas A&I
+1966,2,2,13,29,Rick Norton,Browns,Kentucky
+1966,3,4,10,58,Gary Snook,Cardinals,Iowa
+1966,4,6,8,88,Tim Van Galder,Cardinals,Iowa State
+1966,5,7,12,107,Ron Meyer,Bears,South Dakota State
+1966,6,8,15,125,Jack White,Colts,Penn State
+1966,7,11,1,156,Steve Sloan,Falcons,Alabama
+1966,8,13,3,188,Benjy Dial,Steelers,Eastern New Mexico
+1966,9,14,15,215,Jim Ward,Colts,Gettysburg
+1966,10,16,11,241,Jim LeClair,49ers,C.W. Post
+1966,11,17,3,248,Mike Brundage,Steelers,Oregon
+1966,12,17,7,252,Benny Russell,Cardinals,Louisville
+1966,13,18,3,263,Ken Lucas,Steelers,Pittsburgh
+1966,14,19,3,278,Dave Neilson,Steelers,Albion
+1965,1,1,1,1,Joe Namath,Jets,Alabama
+1965,2,1,5,5,Craig Morton,Cowboys,California
+1965,3,1,12,12,Joe Namath,Cardinals,Alabama
+1965,4,2,0,0,John Huarte,Jets,Notre Dame
+1965,5,3,5,33,Bob Timberlake,Giants,Michigan
+1965,6,4,4,46,Tommy Myers,Lions,Northwestern
+1965,7,6,6,76,John Huarte,Eagles,Notre Dame
+1965,8,7,5,89,Brig Owens,Cowboys,Cincinnati
+1965,9,8,2,100,Jhn Hankinson,Vikings,Minnesota
+1965,10,9,13,125,Gary Lane,Browns,Missouri
+1965,11,10,13,139,Pat Screen,Browns,Louisiana State
+1965,12,12,5,159,Ernie Kellerman,Cowboys,Miami (OH)
+1965,13,14,13,195,Dan Simrell,Browns,Toledo
+1965,14,16,14,224,Steve Tensi,Colts,Florida State
+1965,15,17,4,228,Tom LaFramboise,Bears,Louisville
+1965,16,18,11,249,Karl Sweetan,Lions,Wake Forest
+1965,17,19,9,261,Billy Guy Anderson,Rams,Tulsa
+1965,18,20,1,267,John Torok,Giants,Arizona State
+1965,19,20,4,270,Craig Fertig,Steelers,USC
+1965,20,20,11,277,George Wilson,Lions,Xavier
+1965,21,20,14,280,George Haffner,Colts,McNeese State
+1964,1,1,5,5,Pete Beathard,Lions,USC
+1964,2,1,7,7,Bill Munson,Rams,Utah State
+1964,3,2,1,15,George Mira,49ers,Miami (FL)
+1964,4,2,2,16,Jack Concannon,Eagles,Boston College
+1964,5,4,3,45,Perry Lee Dunn,Cowboys,Mississippi
+1964,6,6,3,73,Billy Lothridge,Cowboys,Georgia Tech
+1964,7,6,11,81,Henry Schichtle,Giants,Wichita State
+1964,8,7,3,87,Dick Shiner,Redskins,Maryland
+1964,9,8,11,109,Gary Wood,Giants,Cornell
+1964,10,8,14,112,Larry Rakestraw,Bears,Georgia
+1964,11,10,3,129,Roger Staubach,Cowboys,Navy
+1964,12,10,5,131,Ron Smith,Rams,Richmond
+1964,13,11,2,142,Bob Berry,Eagles,Oregon
+1964,14,13,4,172,Jerry Rhome,Cowboys,Tulsa
+1964,15,16,10,220,Jack Ankerson,Cardinals,Ripon
+1963,1,1,1,1,Terry Baker,Rams,Oregon State
+1963,2,6,11,81,Dave Mathieson,Bears,Washington State
+1963,3,9,5,117,Don Trull,Colts,Baylor
+1963,4,10,4,130,Pete Liske,Eagles,Penn State
+1963,5,10,10,136,Bill Nelsen,Steelers,USC
+1963,6,10,12,138,Mike Taliaferro,Giants,Illinois
+1963,7,12,14,168,Daryle Lamonica,Packers,Notre Dame
+1963,8,19,7,259,Jim Turner,Redskins,Utah State
+1962,1,1,1,1,Roman Gabriel,Raiders,North Carolina State
+1962,2,1,2,2,Roman Gabriel,Rams,North Carolina State
+1962,3,1,10,10,John Hadl,Lions,Kansas
+1962,4,2,4,18,Sonny Gibbs,Cowboys,Texas Christian
+1962,5,2,10,24,Eddie Wilson,Lions,Arizona
+1962,6,3,14,42,John Furman,Browns,Texas-El Paso
+1962,7,4,12,54,Glynn Griffing,Giants,Mississippi
+1962,8,7,4,88,Jim Bakken,Rams,Wisconsin
+1962,9,9,6,118,Wilburn Hollis,Cardinals,Iowa
+1962,10,9,9,121,Walt Rappold,Colts,Duke
+1962,11,10,14,140,Gale Weidner,Packers,Colorado
+1962,12,18,2,240,Charlie Furlow,Rams,Mississippi State
+1962,13,18,9,247,Mel Rideout,Colts,Richmond
+1962,14,18,10,248,Joe Zuger,Lions,Arizona State
+1962,15,18,14,252,Bob Joiner,Packers,Presbyterian
+1962,16,19,11,263,John Anabo,Browns,Fresno State
+1962,17,20,1,267,Ed Trancygier,Redskins,Florida State
+1961,1,1,2,2,Norm Snead,Redskins,Wake Forest
+1961,2,3,1,29,Fran Tarkenton,Vikings,Georgia
+1961,3,3,8,36,Jim Wright,Eagles,Memphis State
+1961,4,3,13,41,Ron Miller,Rams,Wisconsin
+1961,5,6,13,83,Dick Thornton,Cardinals,Northwestern
+1961,6,9,13,125,Jake Gibbs,Browns,Mississippi
+1961,7,12,2,156,Lowndes Shingler,Cowboys,Clemson
+1961,8,12,6,160,Howard Dyer,Bears,Virginia Military Inst
+1961,9,12,11,165,Jack Moynihan,Giants,Holy Cross
+1961,10,13,14,182,Don Jonas,Eagles,Penn State
+1961,11,17,6,230,Terry Nofsinger,Steelers,Utah
+1961,12,19,5,257,Ben Charles,Bears,USC
+1961,13,20,1,267,Mike McFarland,Vikings,Western Illinois
+1961,14,20,5,271,Mike Jones,Steelers,San Jose State
+1960,1,1,2,2,George Izo,Cardinals,Notre Dame
+1960,2,1,4,4,Richie Lucas,Redskins,Penn State
+1960,3,2,3,15,Warren Rabb,Lions,Louisiana State
+1960,4,3,1,25,Charley Britt,Rams,Georgia
+1960,5,3,8,32,Don Meredith,Bears,Southern Methodist
+1960,6,4,9,45,Jack Cummings,Eagles,North Carolina
+1960,7,5,9,57,Dick Norman,Bears,Stanford
+1960,8,6,1,61,Jacky Lee,Cardinals,Cincinnati
+1960,9,7,11,83,Bobby Waters,49ers,Presbyterian
+1960,10,10,1,109,Charley Johnson,Cardinals,New Mexico State
+1960,11,12,7,139,Dave Grosz,Eagles,Oregon
+1960,12,12,12,144,Pete Hall,Giants,Marquette
+1960,13,16,8,188,Jim Waldon,Browns,Wyoming
+1960,14,20,3,231,Dean Look,Lions,Michigan State
+1959,1,1,1,1,Randy Duncan,Packers,Iowa
+1959,2,1,4,4,Don Allard,Redskins,Boston College
+1959,3,1,5,5,Dave Baker,49ers,Oklahoma
+1959,4,1,10,10,Lee Grosscup,Giants,Utah
+1959,5,2,4,16,Buddy Humphrey,Rams,Baylor
+1959,6,2,9,21,Richie Petitbon,Bears,Tulane
+1959,7,4,3,39,Jim Grazione,Eagles,Villanova
+1959,8,7,7,79,Mitch Ogiego,Redskins,Iowa
+1959,9,8,3,87,Bob Ptacek,Browns,Michigan
+1959,10,12,12,144,Dick Wood,Colts,Auburn
+1959,11,18,5,209,Joe Kapp,Redskins,California
+1959,12,21,7,247,Johnny Green,Steelers,Tennessee-Chattanooga
+1959,13,23,11,275,Frank Kremblas,Giants,Ohio State
+1959,14,25,3,291,Dick Jamieson,Eagles,Bradley
+1958,1,1,1,1,King Hill,Cardinals,Rice
+1958,2,4,3,40,Dan Nolan,Redskins,Lehigh
+1958,3,4,12,49,Jim Ninowski,Browns,Michigan State
+1958,4,5,5,54,Jim Van Pelt,Redskins,Michigan
+1958,5,5,6,55,Frank Ryan,Rams,Rice
+1958,6,10,6,115,Al Jacks,Rams,Penn State
+1958,7,12,11,144,Bob Brodhead,Browns,Duke
+1958,8,13,3,148,Mickey Trimarki,Eagles,West Virginia
+1958,9,13,5,150,Ken (Model-T) Ford,Redskins,Hardin-Simmons
+1958,10,20,8,237,Tom Forestal,Colts,Navy
+1957,1,1,3,3,John Brodie,49ers,Stanford
+1957,2,1,5,5,Len Dawson,Steelers,Purdue
+1957,3,2,4,17,Milt Plum,Browns,Penn State
+1957,4,3,12,37,Ronnie Knox,Bears,UCLA
+1957,5,4,1,38,Bobby Cox,Rams,Minnesota
+1957,6,4,6,43,Sonny Jurgensen,Eagles,Duke
+1957,7,5,1,50,Jimmy Harris,Eagles,Oklahoma
+1957,8,7,12,85,Chuck Curtis,Giants,Texas Christian
+1957,9,11,5,126,Andy Nelson,Colts,Memphis State
+1957,10,12,8,141,Wade Mitchell,Redskins,Georgia Tech
+1957,11,17,6,199,Corny Salvaterra,Steelers,Pittsburgh
+1957,12,17,10,203,Jack Kemp,Lions,Occidental
+1957,13,19,5,222,Kenny Ploen,Browns,Iowa
+1957,14,21,5,246,Gene Cichowski,Steelers,Indiana
+1957,15,22,2,255,Ronnie Quillian,Packers,Tulane
+1957,16,22,5,258,Bob Winters,Browns,Utah State
+1956,1,1,1,1,Gary Glick,Steelers,Colorado State
+1956,2,1,2,2,Earl Morrall,49ers,Michigan State
+1956,3,3,6,31,John Roach,Cardinals,Southern Methodist
+1956,4,4,1,38,Jerry Reichow,Lions,Iowa
+1956,5,12,11,144,Em Lindbeck,Rams,Illinois
+1956,6,15,6,175,John Polzer,Colts,Virginia
+1956,7,15,10,179,Tom Spiers,Cardinals,Arkansas State
+1956,8,16,3,184,George Herring,49ers,Southern Mississippi
+1956,9,16,5,186,George Welsh,Cardinals,Navy
+1956,10,17,7,200,Bart Starr,Packers,Alabama
+1956,11,17,10,203,Eagle Day,Redskins,Mississippi
+1956,12,17,12,205,Eddie West,Browns,North Carolina State
+1956,13,18,2,207,John Stephens,Steelers,Holy Cross
+1956,14,23,3,268,Pete Neft,Steelers,Pittsburgh
+1956,15,24,6,283,Bobby Fox,Colts,East Texas State
+1956,16,27,2,315,Jerry Gustafson,49ers,Stanford
+1956,17,28,5,330,Jim Miller,Cardinals,Wisconsin
+1956,18,28,6,331,John Shearer,Colts,Shepherd
+1956,19,28,7,332,Bobby Lance,Packers,Florida
+1956,20,30,6,355,Rod Hermes,Packers,Beloit
+1955,1,1,1,1,George Shaw,Colts,Oregon
+1955,2,1,4,4,Ralph Guglielmi,Redskins,Notre Dame
+1955,3,9,5,102,Johnny Unitas,Steelers,Louisville
+1955,4,13,12,157,Johnny Borton,Browns,Ohio State
+1955,5,16,4,185,Charley Brackins,Packers,Prairie View A&M
+1955,6,22,8,261,Pete Vann,49ers,Army
+1954,1,1,1,1,Bobby Garrett,Browns,Stanford
+1954,2,1,2,2,Lamar McHan,Cardinals,Arkansas
+1954,3,1,5,5,Cotton Davidson,Colts,Baylor
+1954,4,27,6,319,Tom Yewcic,Steelers,Michigan State
+1953,1,1,5,5,Ted Marchibroda,Steelers,Detroit
+1953,2,2,4,17,Zeke Bratkowski,Bears,Georgia
+1953,3,2,9,22,Eddie Crowder,Giants,Oklahoma
+1953,4,2,11,24,Rudy Bukich,Rams,USC
+1953,5,3,3,28,Dale Samuels,Cardinals,Purdue
+1953,6,10,7,116,Charlie Maloy,Giants,Holy Cross
+1953,7,30,4,353,Bill Brehany,Bears,Virginia Military Inst
+1952,1,1,1,1,Billy Wade,Rams,Vanderbilt
+1952,2,1,4,4,Vito (Babe) Parilli,Packers,Kentucky
+1952,3,1,12,12,Harry Agganis,Browns,Boston University
+1952,4,3,1,26,Don Klosterman,Browns,Loyola (CA)
+1952,5,3,6,31,Al Dorow,Redskins,Michigan State
+1952,6,3,10,35,Don Heinrich,Giants,Washington
+1952,7,19,5,222,Gary Kerkorian,Steelers,Stanford
+1951,1,1,2,2,Bob Williams,Bears,Notre Dame
+1951,2,1,3,3,Y.A. Tittle,49ers,Louisiana State
+1951,3,14,1,160,Adrian Burk,Redskins,Baylor
+1951,4,30,6,357,John (Model-T) Ford,Eagles,Hardin-Simmons
+1950,1,1,2,2,Adrian Burk,Colts,Baylor
+1950,2,2,3,17,Tobin Rote,Packers,Rice
+1950,3,10,5,123,Eddie LeBaron,Redskins,Pacific
+1950,4,18,3,225,Arnold Galiffa,Packers,Army
+1950,5,19,12,247,Butch Songin,Browns,Boston College
+1949,1,1,2,2,Johnny Rauch,Lions,Georgia
+1949,2,1,5,5,Stan Heath,Packers,Nevada
+1949,3,1,9,9,Frank Tripucka,Eagles,Notre Dame
+1949,4,4,6,37,Norm Van Brocklin,Rams,Oregon
+1949,5,12,5,116,Jim Finks,Steelers,Tulsa
+1949,6,12,8,119,George Blanda,Bears,Kentucky
+1948,1,1,1,1,Harry Gilmer,Redskins,Alabama
+1948,2,1,3,3,Bobby Layne,Bears,Texas
+1948,3,1,6,6,Y.A. Tittle,Lions,Louisiana State
+1948,4,3,9,22,Paul Campbell,Eagles,Texas
+1948,5,11,8,93,Gil Johnson,Eagles,Southern Methodist
+1948,6,16,4,139,George Ratterman,Yanks,Notre Dame
+1948,7,25,6,231,Stan Heath,Packers,Nevada
+1946,1,1,1,1,Frank (Boley) Dancewicz,Yanks,Notre Dame
+1946,2,1,4,4,Johnny Lujack,Bears,Notre Dame
+1946,3,3,4,19,Frank Broyles,Bears,Georgia Tech
+1945,1,1,8,8,Jim Hardy,Redskins,USC
+1945,2,5,2,34,Al Kowalski,Dodgers,Tulsa
+1945,3,13,7,127,Charlie Conerly,Redskins,Mississippi
+1944,1,1,1,1,Angelo Bertelli,Yanks,Notre Dame
+1944,2,1,4,4,Otto Graham,Lions,Northwestern
+1944,3,5,10,42,Bob Waterfield,Rams,UCLA
+1943,1,6,5,45,Les Horvath,Rams,Ohio State
+1942,1,1,10,10,Frankie Albert,Bears,Stanford
+1941,1,2,3,13,Paul Christman,Cardinals,Missouri
+1941,2,20,8,188,Jack Odle,Bears,Texas Christian
+1939,1,1,2,2,Sid Luckman,Bears,Columbia
+1939,2,1,4,4,Davey O'Brien,Eagles,Texas Christian
+1939,3,10,2,82,Earl Crowder,Cardinals,Oklahoma
+1937,1,1,6,6,Sammy Baugh,Redskins,Texas Christian
+1937,2,2,3,13,Clarence (Ace) Parker,Dodgers,Duke

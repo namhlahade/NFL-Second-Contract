@@ -31,3 +31,4 @@ with open('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/rookieQBs.csv'
                     year = cols[0]
                 if int(cols[0]) >= 1970:
                     writer.writerow(cols)
+

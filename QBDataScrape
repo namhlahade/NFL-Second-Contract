@@ -1,0 +1,12 @@
+import pandas as pd
+import math
+import csv
+
+linksCSV = pd.read_csv('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/rookieQBs.csv')
+names = linksCSV['Name'].tolist()
+links = linksCSV['Link'].tolist()
+
+zip_iterator = zip(names, links)
+qbDictionary = dict(zip_iterator)
+
+print(qbDictionary)

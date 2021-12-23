@@ -162,3 +162,4 @@ for element in finalArray:
  
        qbDictRookie[element[0]][17] = qbDictRookie[element[0]][17] + 1
 
+print(qbDict['Tua Tagovailoa'])

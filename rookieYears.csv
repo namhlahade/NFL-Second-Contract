@@ -1,0 +1,10 @@
+from typing import TypedDict, final
+import pandas as pd
+import math
+from pandas.io.formats.format import common_docstring
+from pandas.io.parsers import read_csv
+import requests
+import csv
+from bs4 import BeautifulSoup
+
+extensions = pd.read_csv('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/extensions.csv')

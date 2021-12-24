@@ -7,6 +7,7 @@ import requests
 import csv
 from bs4 import BeautifulSoup
 import numpy
+from rookieYears import dealLengthDict
 
 qbData = pd.read_csv('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/relevantQBstats.csv')
 names = qbData['Name'].tolist()
@@ -14,6 +15,7 @@ year = qbData['Year'].tolist()
 dealType = qbData['Draft_Yr'].tolist()
 gamesStarted = qbData['S'].tolist()
 record = qbData['QBrec'].tolist()
+contract = pd.read_csv('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/qbSeasonContracts.csv')
 count = 0
 for yr in record:
     if type(yr) == float:
@@ -162,4 +164,10 @@ for element in finalArray:
  
        qbDictRookie[element[0]][17] = qbDictRookie[element[0]][17] + 1
 
-print(qbDict['Tua Tagovailoa'])
+quarterBackDict = {}
+for name in qbDictRookie.keys():
+    if name in dealLengthDict.keys():
+        newt = qbDictRookie[name] + dealLengthDict[name]
+        quarterBackDict[name] = newt
+print(quarterBackDict)
+    

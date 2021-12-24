@@ -5,7 +5,7 @@ from pandas.io.parsers import read_csv
 import requests
 import csv
 from bs4 import BeautifulSoup
-
+h = ['Year', 'Team', 'Base Salary', 'Prorated Bonus', 'Roster Bonus', 'Cap Number', 'Cap%', 'Cash Paid', 'Guaranteed Salary', 'Other Bonus', 'Workout Bonus', 'Per Game Roster Bonus', 'Name']
 URL = 'https://overthecap.com/position/quarterback/'
 qbURL = 'https://overthecap.com'
 year = 1994
@@ -58,31 +58,40 @@ while (year <=2031):
                 else:
                     contractDict[name] =[col]
         flag = 0
-#print(contractDict)
+print(contractDict)
 with open('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/qbSeasonContracts.csv', 'w', encoding='UTF8') as f:
     writer = csv.writer(f)
+    writer.writerow(h)
     for name in contractDict.keys():
-        count = 0
         oneYear = contractDict[name]
-        header = []
-        totalData = []
-        for breakDown in oneYear:
-            lineData = []
-            for item in breakDown:
-                x, data = item
-                if count == 0:
-                    header.append(x)
-                lineData.append(data)
-            totalData.append(lineData)
-            count = 1
-        print('header')
-        print(header)
-        print('data')
-        writer.writerow(header)
-        x = 0
-        dict = {}
-        for d in totalData:
-            if d[0] not in dict.keys():
-                print(d)
-                writer.writerow(d)
-                dict[d[0]] = [d]
+        for array in oneYear:
+            dataRow = ['', '', '', '', '', '', '', '', '', '', '', '', '',]
+            for element in array:
+                title, data = element
+                if title == 'Year':
+                    dataRow[0] = data
+                elif title == 'Team':
+                    dataRow[1] = data
+                elif title == 'Base Salary':
+                    dataRow[2] = data
+                elif title == 'Prorated Bonus':
+                    dataRow[3] = data
+                elif title == 'Roster Bonus':
+                    dataRow[4] = data
+                elif title == 'CapNumber':
+                    dataRow[5] = data
+                elif title == 'Cap %':
+                    dataRow[6] = data
+                elif title == 'Cash Paid':
+                    dataRow[7] = data
+                elif title == 'Guaranteed Salary':
+                    dataRow[8] = data
+                elif title == 'Other Bonus':
+                    dataRow[9] = data
+                elif title == 'Workout Bonus':
+                    dataRow[10] = data
+                elif title == 'Per Game Roster Bonus':
+                    dataRow[11] = data
+                elif title == 'Name':
+                    dataRow[12] = data
+            writer.writerow(dataRow)

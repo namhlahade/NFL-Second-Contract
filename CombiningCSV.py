@@ -1,3 +1,4 @@
+from typing import final
 import pandas as pd
 import math
 from pandas.io.formats.format import common_docstring
@@ -5,6 +6,7 @@ from pandas.io.parsers import read_csv
 import requests
 import csv
 from bs4 import BeautifulSoup
+from rookieYears import dealLengthDict # Name, what the deal was, when the deal was,years before secondcontract was signed,irrelevant, starting year
 
 def merge(list1, list2, list3, list4, list5, list6, list7, list8, list9, list10, list11, list12, list13):
       
@@ -29,7 +31,7 @@ perGameRosterBonus = seasonContract['Per Game Roster Bonus'].tolist()
 
 combinedTuple = merge(name, team, year, baseSalary, proratedBonus, rosterBonus, capNumber, capPercentage, cashPaid, guaranteedSalary, otherBonus, workoutBonus, perGameRosterBonus)
 
-finalList = []
+finalList = [] #List of season by season contract breakdown
 newNames = []
 noList = []
 for element in combinedTuple:
@@ -39,6 +41,16 @@ for element in combinedTuple:
     elif name not in newNames and (year >= 1994) and name not in noList:
         finalList.append(element)
         newNames.append(name)
-    elif name in newNames:
+    elif name in newNames: 
         finalList.append(element)
-print(finalList)
+
+finalFinal = {}
+for name in dealLengthDict.keys():
+    length = dealLengthDict[name][1] - dealLengthDict[name][4]
+    startYr = dealLengthDict[name][4]
+    finalFinal[name] = []
+    for i in range(len(finalList)):
+        if finalList[i][0] == name and finalList[i][2] == startYr:
+            for x in range(i, i + length):
+                finalFinal[name].append(finalList[x])
+            break

@@ -24,7 +24,7 @@ for element in combined:
     if name not in dealLengthDict.keys():
         dealLengthDict[name] = [contract, year, 0, 0, yearStarted]
     if name in dealLengthDict.keys() and dealLengthDict[name][3] == 0:
-        if contract == 'Other' or contract == 'Extension':
+        if contract == 'Other' or contract == 'Extension' or contract == 'Franchise':
             dealLengthDict[name][3] = 1
             dealLengthDict[name][2] = year - dealLengthDict[name][1]
             dealLengthDict[name][1] = year
@@ -33,3 +33,4 @@ for element in combined:
 for name in list(dealLengthDict.keys()):
     if dealLengthDict[name][4] < 1994:
         del(dealLengthDict[name])
+#Name, what the deal was, when the deal was,years before secondcontract was signed,irrelevant, starting year

@@ -169,4 +169,4 @@ for name in qbDictRookie.keys():
     if name in dealLengthDict.keys():
         newt = [qbDictRookie[name]] + [dealLengthDict[name]]
         quarterBackDict[name] = newt
-print(quarterBackDict)
+print(qbDictRookie)

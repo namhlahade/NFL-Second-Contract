@@ -44,13 +44,31 @@ for element in combinedTuple:
     elif name in newNames: 
         finalList.append(element)
 
+listFinal = []
+for element in finalList:
+    if element not in listFinal:
+        listFinal.append(element)
+
+finalDict = {}
+for element in listFinal:
+    name, team, year, baseSalary, proratedBonus, rosterBonus, capNumber, capPercentage, cashPaid, guaranteedSalary, otherBonus, workoutBonus, perGameRosterBonus = element
+    if name not in finalDict:
+        finalDict[name] = []
+        finalDict[name].append([team, year, baseSalary, proratedBonus, rosterBonus, capNumber, capPercentage, cashPaid, guaranteedSalary, otherBonus, workoutBonus, perGameRosterBonus])
+    elif name in finalDict and year not in finalDict[name]:
+        finalDict[name].append([team, year, baseSalary, proratedBonus, rosterBonus, capNumber, capPercentage, cashPaid, guaranteedSalary, otherBonus, workoutBonus, perGameRosterBonus])
+
 finalFinal = {}
 for name in dealLengthDict.keys():
     length = dealLengthDict[name][1] - dealLengthDict[name][4]
     startYr = dealLengthDict[name][4]
     finalFinal[name] = []
-    for i in range(len(finalList)):
-        if finalList[i][0] == name and finalList[i][2] == startYr:
-            for x in range(i, i + length):
-                finalFinal[name].append(finalList[x])
-            break
+    if name in finalDict.keys():
+        for listElement in finalDict[name]:
+            if (listElement[1] >= startYr and listElement[1] <= (startYr + length)):
+                finalFinal[name].append(listElement)
+
+thisIsFinal = {}
+for name in finalFinal.keys():
+    if finalFinal[name] != []:
+        thisIsFinal[name] = finalFinal[name]

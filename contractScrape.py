@@ -58,7 +58,7 @@ while (year <=2031):
                 else:
                     contractDict[name] =[col]
         flag = 0
-print(contractDict)
+
 with open('/Users/namhlahade/Documents/GitHub/NFL-Second-Contract/qbSeasonContracts.csv', 'w', encoding='UTF8') as f:
     writer = csv.writer(f)
     writer.writerow(h)
